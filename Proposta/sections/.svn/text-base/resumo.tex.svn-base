@@ -1,0 +1,16 @@
+\chapter{resumo} Sistemas de processamento de imagens requerem um grande poder
+computacional quando utilizadas em um processador de propósito geral.
+Aplicações desse tipo utilizam pequenas partes do conjunto de instruções de um
+processador. Este trabalho propõe a implementação de um sistema de reconhecimento
+ótico de caracteres(OCR) em imagens digitais utilizando hardware
+reprogramável com sistema de captura de imagens. Esta metodologia foi
+desenvolvida por \cite{PACHECO} e encontra-se protegida pelos
+direitos de propriedade intelectual sob o número 0000270607032603. O modelo
+terá integração entre hardware e software em um sistema embarcado.  Esse
+sistema pretende, além de aumentar o desempenho em relação a um sistema de OCR
+tradicional, ter baixo consumo. Ambas implementaçãoes serão comparadas com o
+objetivo de confrontar o desempenho e o consumo de energia com a execução dos
+algoritmos em PC e FPGA XILINX Virtex-5 modelo XC5VLX110T®.
+
+
+

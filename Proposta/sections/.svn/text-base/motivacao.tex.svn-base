@@ -1,0 +1,24 @@
+\chapter{Motivação}
+
+Sistemas de processamento de imagem necessitam de grande poder computacional.
+FPGA's podem oferecer esse processamento por criar \textit {hardware} dedicado
+para resolver determinado tipo de tarefa. Sistemas de reconhecimento automático de
+placas tornaram-se a solução em Sistemas Inteligentes de Transportes (SIT), em
+que a visão artificial e padrões de reconhecimento são extensivamente aplicados
+\cite{GUANGZHI}.
+
+A identificação de veículos através do reconhecimento da placa veicular já era
+usada na década de 50, tendo como objetivo o estudo do tempo de duração de
+viagens entre origem e destino de veículos automotores. Os métodos iniciais
+utilizavam observadores para anotar em papel, ou fitas gravadas, as placas dos
+veículos e os tempos correspondentes à viagem, que depois eram comparadas
+manualmente.
+
+Desta forma, a necessidade de analisar imagens é de extrema importância para
+automatizar processos. Assim, pode-se citar exemplos de aplicações de um
+sistema de identificação automática de veículos no controle do tráfego; no
+reconhecimento de veículos em situação irregular; no conrole de pedágios,
+estacionamentos, aeroportos e intersecções; na administração de entradas
+privativas; no pagamento automático de bilhetes.
+
+

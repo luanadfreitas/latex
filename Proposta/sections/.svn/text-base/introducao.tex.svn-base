@@ -1,0 +1,34 @@
+\chapter{Introdução}
+
+	A visão e a audição são os dois principais meios pelos quais os seres
+	interpretam os sinais do mundo exterior \cite{LIM}. O interesse em
+	métodos de processamento de imagens digitais decorre de duas áreas
+	principais de aplicação: melhoria de informação visual para a
+	interpretação humana e o processamento de dados de cenas para percepção
+	automática através de máquinas.
+
+Foi no século 20 que aconteceu uma das primeiras aplicações da utilização de
+técnicas de processamento de imagens e tinha como principal objetivo melhorar
+as imagens digitalizadas para jornais.  Essas digitalizações posteriormente
+eram enviadas por meio de cabo submarino entre Londres e Nova Iorque. O tempo
+necessário para esta transmissão era de uma semana e o sistema Bartlane de
+transmissão de imagens por cabo submarino (como foi chamado) conseguiu reduzir
+a transmissão para três horas.
+
+Avanços expressivos na área vieram apenas com o advento dos computadores
+digitais trinta décadas mais tarde \cite{GONZALES}.  Em 1964, fotos da lua enviadas pela
+missão Ranger 7, foram processadas com o objetivo de corrigir vários tipos de
+distorções inerentes à câmera utilizada. Estas técnicas serviram como base para
+métodos de aprimoramento de realce e restauração de imagens de outros programas
+espaciais posteriores como as expedições tripuladas da série Apollo \cite{GONZALES}.
+
+Desde a década de 60 o processamento digital de imagem vem crescendo
+substancialmente. Além das aplicações no programa espacial, técnicas de
+processamento de imagens são atualmente utilizadas para resolver tarefas do
+cotidiano.  Embora não relacionadas com freqüência, essas tarefas comumente
+requerem métodos capazes de melhorar a informação visual para a análise e
+interpretação humana.  Desta forma, dentro do campo de processamento de
+imagens, a integração e validação de um sistema de reconhecimento de
+caracteres é uma tarefa complexa e será melhor explicado no decorrer do TC.
+
+

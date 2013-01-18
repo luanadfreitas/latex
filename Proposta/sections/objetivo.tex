@@ -1,0 +1,25 @@
+\chapter{Objetivo} O objetivo deste estudo está na concepção, validação e
+avaliação de um sistema completo para reconhecimento de placas de veículos.
+Isso é possível através da aplicação de conceitos que envolvem a criação de
+sistemas embarcados, \textit{System-on-Chip}, processamento de imagem, redes
+neurais e linux.  Este trabalho será baseado na tese de mestrado de Pacheco
+\cite{PACHECO}, que desenvolveu uma nova metodologia de localização de
+regiões candidatas em imagens digitais utilizando arquiteturas
+reconfiguráveis. A meta é utilizar o modelo já implementado em VHDL para
+criar um sistema completo de OCR.  Este trabalho de conclusão de curso tem como
+finalidade fazer a integração e validação de um sistema que faça a captura de
+imagem, extraia as regiões candidatas da placa contidas em uma imagem
+digital, extrair os caracteres e faça o reconhecimento através da aplicação
+de redes neurais.
+
+A metodologia empregada para executar a tarefa de captura de imagem,
+localização da placa, extração dos caracteres e reconhecimento 
+faz uso de diferentes técnicas de processamento e análise de
+imagens. Desta forma, o objetivo final deste trabalho é validar
+primeiramente o OCR em software e posteriormente em \textit{hardware}.
+ Todas as etapas
+do modelo proposto serão validadas em \textit{Field Programmable Gate Array}
+(FPGA) visando obter melhores desempenhos de processamento da imagem.  As
+tarefas que executam as funções de extração de bordas, marcação dos pontos e
+filtragem dos mesmos, serão executadas dedicadamente, sendo essa, uma das
+principais características da arquitetura utilizada.  

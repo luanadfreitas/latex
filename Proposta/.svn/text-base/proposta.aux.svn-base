@@ -1,0 +1,67 @@
+\relax 
+\catcode`"\active
+\select@language{brazilian}
+\@writefile{toc}{\select@language{brazilian}}
+\@writefile{lof}{\select@language{brazilian}}
+\@writefile{lot}{\select@language{brazilian}}
+\citation{PACHECO}
+\@writefile{toc}{\contentsline {chapter}{\numberline {1}resumo}{2}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\citation{LIM}
+\citation{GONZALES}
+\citation{GONZALES}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o}{3}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\citation{GUANGZHI}
+\@writefile{toc}{\contentsline {chapter}{\numberline {3}Motiva\IeC {\c c}\IeC {\~a}o}{4}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\citation{PACHECO}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Objetivo}{5}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\citation{LIM}
+\citation{PACHECO}
+\citation{XILINX}
+\citation{XILINX}
+\@writefile{toc}{\contentsline {chapter}{\numberline {5}Metodologia}{6}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Elementos do processamento e an\IeC {\'a}lise de imagem. Fonte: \citep  {PACHECO} }}{7}}
+\newlabel{fig:elemProc}{{1}{7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Plataforma de desenvolvimento Virtex-V , da \textit  {Xilinx}. Fonte: \citep  {XILINX}}}{8}}
+\newlabel{fig:placa}{{2}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Sistema Proposto}}{9}}
+\newlabel{fig:sisProp}{{3}{9}}
+\bibdata{biblio}
+\@writefile{toc}{\contentsline {chapter}{\numberline {6}Cronograma}{10}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\newlabel{ela-pro}{{I}{10}}
+\newlabel{anI}{{II}{10}}
+\newlabel{anII}{{III}{10}}
+\newlabel{anIII}{{IV}{10}}
+\newlabel{dI}{{V}{10}}
+\newlabel{dII}{{VI}{10}}
+\newlabel{dIII}{{VII}{10}}
+\newlabel{esc-tcI}{{VIII}{10}}
+\newlabel{imI}{{IX}{10}}
+\newlabel{imII}{{X}{10}}
+\newlabel{imIII}{{XI}{10}}
+\newlabel{tec}{{XII}{10}}
+\newlabel{esc-tcII}{{XIII}{10}}
+\bibcite{GONZALES}{{1}{2000}{{GONZALES}}{{GONZALES}}}
+\bibcite{GUANGZHI}{{2}{2003}{{GUANGZHI; JIAQIAN; C~JINGPING}}{{GUANGZHI; JIAQIAN; C~JINGPING}}}
+\bibcite{LIM}{{3}{2000}{{LIM}}{{LIM}}}
+\bibcite{PACHECO}{{4}{2007}{{PACHECO}}{{PACHECO}}}
+\bibcite{XILINX}{{5}{2009}{{XILINX}}{{XILINX}}}
+\bibstyle{abnt}
+\@writefile{toc}{\contentsline {chapter}{Refer{\^e}ncias}{12}}
+\@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{toc}{\contentsline {chapter}{\numberline {7}}{13}}
+\@writefile{lof}{}
+\@writefile{lot}{}
+\newlabel{LastPage}{{}{13}}

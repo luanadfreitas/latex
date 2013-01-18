@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="sis.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.588253"
+     inkscape:cx="146.51481"
+     inkscape:cy="465.33375"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1423"
+     inkscape:window-height="826"
+     inkscape:window-x="1"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26769)">
+    <rect
+       id="rect2816"
+       width="595.71429"
+       height="474.28571"
+       x="91.428574"
+       y="428.07648"
+       style="fill:#917c6f"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <rect
+       style="fill:#0000ff"
+       id="rect2818"
+       width="230.68098"
+       height="187.0302"
+       x="260.02048"
+       y="659.48962"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <g
+       id="g2846"
+       transform="matrix(1.1053083,0,0,1,-158.69929,128.57143)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2824"
+         d="m 752.85714,520.54789 60,0 34.28572,0"
+         style="fill:none;stroke:#000000;stroke-width:16.75706291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.21658846,0.74279162,-0.75686707,0.21256057,914.36473,-200.52784)"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.8325957"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="19.952112"
+         sodipodi:r1="39.904221"
+         sodipodi:cy="324.80878"
+         sodipodi:cx="876.42859"
+         sodipodi:sides="3"
+         id="path2844"
+         style="fill:#000000"
+         sodipodi:type="star" />
+    </g>
+    <g
+       transform="matrix(-1.1930652,0,0,1,1719.4021,26.428573)"
+       id="g2850"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:16.75706291px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 752.85714,520.54789 60,0 34.28572,0"
+         id="path2852"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000"
+         id="path2854"
+         sodipodi:sides="3"
+         sodipodi:cx="876.42859"
+         sodipodi:cy="324.80878"
+         sodipodi:r1="39.904221"
+         sodipodi:r2="19.952112"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.8325957"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         transform="matrix(0.21658846,0.74279162,-0.75686707,0.21256057,914.36473,-200.52784)" />
+    </g>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:1.42089713"
+       id="rect2856"
+       width="162.43625"
+       height="73.864815"
+       x="823.06757"
+       y="509.42978"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="905"
+       y="545.2193"
+       id="text2858"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         x="905"
+         y="557.7193"
+         style="text-align:center;text-anchor:middle"
+         id="tspan3170">Frame  Grabber</tspan><tspan
+         sodipodi:role="line"
+         x="905"
+         y="557.7193"
+         id="tspan2862"
+         style="text-align:center;text-anchor:middle">(Captura de imagem usb)</tspan></text>
+    <rect
+       y="611.57263"
+       x="823.06757"
+       height="73.864815"
+       width="162.43625"
+       id="rect2864"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:1.42089713"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       id="text2866"
+       y="647.36212"
+       x="907"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         y="647.36212"
+         x="907"
+         id="tspan2868"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">VGA</tspan><tspan
+         id="tspan2870"
+         y="659.86212"
+         x="907"
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle">(Exibir  Resultados)</tspan></text>
+    <g
+       id="g2938"
+       transform="matrix(1.1245746,0,0,1,-103.24268,-12)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.36557198px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 741.666,771.11932 38.17074,0 21.81185,0"
+         id="path2895"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000"
+         id="path2897"
+         sodipodi:sides="3"
+         sodipodi:cx="876.42859"
+         sodipodi:cy="324.80878"
+         sodipodi:r1="39.904221"
+         sodipodi:r2="19.952112"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.8325957"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         transform="matrix(0.13778903,0.74279162,-0.48150292,0.21256057,844.41373,50.04359)" />
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2901"
+         d="m 781.42419,771.11932 -42.04916,0 -24.0281,0"
+         style="fill:none;stroke:#000000;stroke-width:14.02816677px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(-0.15178937,0.74279162,0.53042705,0.21256057,668.23655,50.04359)"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.8325957"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="19.952112"
+         sodipodi:r1="39.904221"
+         sodipodi:cy="324.80878"
+         sodipodi:cx="876.42859"
+         sodipodi:sides="3"
+         id="path2903"
+         style="fill:#000000"
+         sodipodi:type="star" />
+    </g>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:1.42089713"
+       id="rect2905"
+       width="162.43625"
+       height="73.864815"
+       x="828.78186"
+       y="732.28693"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="912.71429"
+       y="756.07642"
+       id="text2907"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         style="text-align:center;text-anchor:middle"
+         sodipodi:role="line"
+         id="tspan2909"
+         x="912.71429"
+         y="756.07642">Ethernet</tspan><tspan
+         style="text-align:center;text-anchor:middle"
+         sodipodi:role="line"
+         x="912.71429"
+         y="768.57642"
+         id="tspan2913">(Controle Externo)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.20795822px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="379.29562"
+       y="647.47711"
+       id="text2917"
+       transform="scale(0.93643638,1.0678782)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan2919"
+         x="379.29562"
+         y="647.47711">FPGA</tspan></text>
+    <rect
+       style="fill:#008080;stroke:#000000"
+       id="rect2921"
+       width="75.714287"
+       height="47.857143"
+       x="286.04196"
+       y="776.93152"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="310.32773"
+       y="802.50293"
+       id="text2923"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan2925"
+         x="310.32773"
+         y="802.50293">OCR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.68121529px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="324.3949"
+       y="458.28629"
+       id="text2927"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan2929"
+         x="324.3949"
+         y="458.28629">SISTEMA</tspan></text>
+    <g
+       id="g3174"
+       transform="matrix(1.1547879,0,0,0.82851377,-387.19708,90.863353)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         inkscape:export-ydpi="400"
+         inkscape:export-xdpi="400"
+         inkscape:export-filename="/home/kist/2010-1/TCC/svn/Proposta/figures/sis.png"
+         y="510.93356"
+         x="551.42859"
+         height="102.85714"
+         width="132.85715"
+         id="rect2931"
+         style="fill:#de8787;stroke:#000000" />
+      <text
+         inkscape:export-ydpi="400"
+         inkscape:export-xdpi="400"
+         inkscape:export-filename="/home/kist/2010-1/TCC/svn/Proposta/figures/sis.png"
+         id="text2933"
+         y="569.62665"
+         x="593.66815"
+         style="font-size:16.55290031px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="569.62665"
+           x="593.66815"
+           id="tspan2935"
+           sodipodi:role="line">LINUX</tspan></text>
+    </g>
+    <rect
+       y="776.34576"
+       x="383.98618"
+       height="47.857143"
+       width="75.714287"
+       id="rect2937"
+       style="fill:#008080;stroke:#000000"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       id="text2939"
+       y="803.91724"
+       x="398.27188"
+       style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         y="803.91724"
+         x="398.27188"
+         id="tspan2941"
+         sodipodi:role="line">CAPTURA</tspan></text>
+    <g
+       id="g2890"
+       transform="translate(-29.749103,45.048645)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         y="609.99847"
+         x="150.49344"
+         height="69.177338"
+         width="110.40057"
+         id="rect2862"
+         style="fill:#ff8080;stroke:#000000;stroke-width:1.09595215" />
+      <text
+         id="text2864"
+         y="646.92438"
+         x="169.44496"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="646.92438"
+           x="169.44496"
+           id="tspan2866"
+           sodipodi:role="line">PROCESSADOR</tspan></text>
+    </g>
+    <g
+       id="g2885"
+       transform="translate(103.69689,93.497191)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         style="fill:#ff8080;stroke:#000000;stroke-width:1.09595215"
+         id="rect2879"
+         width="110.40057"
+         height="69.177338"
+         x="17.047455"
+         y="672.04663" />
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="35.998978"
+         y="708.97253"
+         id="text2881"><tspan
+           sodipodi:role="line"
+           id="tspan2883"
+           x="35.998978"
+           y="708.97253">MEMÓRIA RAM</tspan></text>
+    </g>
+    <g
+       id="g2908"
+       transform="matrix(0.95332258,0,0,0.69694235,-523.02788,168.14267)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         sodipodi:nodetypes="ccc"
+         id="path2899"
+         d="m 731.45856,832.92312 0,-14.94326 0,-8.53901"
+         style="fill:none;stroke:#000000;stroke-width:4.88378525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.25333205,-0.05394231,0.07249463,0.18850108,485.53281,792.69895)"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.8325957"
+         sodipodi:arg1="0.78539816"
+         sodipodi:r2="19.952112"
+         sodipodi:r1="39.904221"
+         sodipodi:cy="324.80878"
+         sodipodi:cx="876.42859"
+         sodipodi:sides="3"
+         id="path2902"
+         style="fill:#000000"
+         sodipodi:type="star" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.12589788px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 731.45856,817.35839 0,16.46161 0,9.40664"
+         id="path2904"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000"
+         id="path2906"
+         sodipodi:sides="3"
+         sodipodi:cx="876.42859"
+         sodipodi:cy="324.80878"
+         sodipodi:r1="39.904221"
+         sodipodi:r2="19.952112"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.8325957"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 904.64513,353.02532 -33.38053,-8.94428 -33.38053,-8.94429 24.43624,-24.43625 24.43625,-24.43624 8.94429,33.38053 8.94428,33.38053 z"
+         transform="matrix(0.25333205,0.05942323,0.07249463,-0.20765413,485.53281,861.66964)" />
+    </g>
+    <g
+       id="g3152"
+       transform="translate(612.83155,-33.998977)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         y="553.4212"
+         x="-81.603539"
+         height="56.110302"
+         width="118.15844"
+         id="rect3146"
+         style="fill:#ff8080;stroke:#000000;stroke-width:0.98800874" />
+      <text
+         id="text3148"
+         y="583.42615"
+         x="-74.497696"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="583.42615"
+           x="-74.497696"
+           id="tspan3150"
+           sodipodi:role="line">CONTROLADOR USB</tspan></text>
+    </g>
+    <g
+       id="g3165"
+       transform="translate(603.48184,60.348184)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         transform="translate(0,308.26769)"
+         y="248.5594"
+         x="-73.097801"
+         height="54.398361"
+         width="118.99642"
+         id="rect3157"
+         style="fill:#ff8080;stroke:#000000" />
+      <text
+         id="text3159"
+         y="581.77643"
+         x="-14.749615"
+         style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="581.77643"
+           x="-13.157818"
+           id="tspan3161"
+           sodipodi:role="line">CODEC DE SAÍDA </tspan><tspan
+           id="tspan3163"
+           y="594.27643"
+           x="-14.749615"
+           sodipodi:role="line">DVI</tspan></text>
+    </g>
+    <g
+       id="g3177"
+       transform="matrix(1.0768975,0,0,1,626.62325,180.19458)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <rect
+         y="550.81818"
+         x="-90.156387"
+         height="52.816612"
+         width="109.76489"
+         id="rect3171"
+         style="fill:#ff8080;stroke:#000000;stroke-width:0.88180244" />
+      <text
+         id="text3173"
+         y="580.12665"
+         x="-72.247826"
+         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="580.12665"
+           x="-72.247826"
+           id="tspan3175"
+           sodipodi:role="line">PHY ETHERNET</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       y="714.88342"
+       x="339.59036"
+       height="47.857143"
+       width="75.714287"
+       id="rect3186"
+       style="fill:#008080;stroke:#000000" />
+    <text
+       inkscape:export-ydpi="400"
+       inkscape:export-xdpi="400"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       id="text3188"
+       y="736.4549"
+       x="377.87613"
+       style="font-size:10px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="736.4549"
+         x="377.87613"
+         id="tspan3190"
+         sodipodi:role="line">MÁQUINA DE</tspan><tspan
+         y="748.9549"
+         x="377.87613"
+         sodipodi:role="line"
+         id="tspan3228">ESTADOS</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.71692276px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 507.85971,491.37906 0,327.24015"
+       id="path3192"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.81240404px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 528.85409,1068.2387 -22.43934,0"
+       id="path3204"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08381605px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 506.49742,1001.0907 -15.97485,0"
+       id="path3206"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 531.22801,239.51111 -24.21827,0.12356"
+       id="path3212"
+       transform="translate(0,308.26769)"
+       inkscape:connector-type="polyline"
+       inkscape:connection-start="#g3152"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 530.80902,333.98183 -22.94931,0"
+       id="path3218"
+       transform="translate(0,308.26769)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 529.53406,447.02842 -21.24936,0"
+       id="path3220"
+       transform="translate(0,308.26769)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.98428822px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 507.00974,742.33401 -15.72453,0"
+       id="path3222"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 231.61803,686.57312 27.19918,0"
+       id="path3224"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 337.43984,289.35817 0,61.19816"
+       id="path3226"
+       transform="translate(0,308.26769)"
+       inkscape:export-filename="/home/kist/2010-1/TCC/workspace/Proposta/figures/sis.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+  </g>
+</svg>

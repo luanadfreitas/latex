@@ -1,0 +1,75 @@
+@book{Tanen,
+ 	author 		= {Andrew S. Tanenbaum},
+ 	title 		= {Redes de computadores},
+ 	publisher 	= {Elsevier},
+ 	year 		= {2003},
+ 	address 	= {Rio de Janeiro RJ Brasil},
+ 	booktitle 	= {Redes de computadores},
+ 	edition 	= {7ª},
+}
+
+
+@misc{throughput,
+	author 	= {S. Bradner},
+	title 	= {Benchmarking Terminology for Network Interconnection Devices},
+	note 	= {Disponível em: $<$http://www.rfc-editor.org/rfc/rfc1242.txt$>$. Acesso em: março~2009},
+	year 	= {1999},
+}
+
+@MastersThesis{Helvey,
+   author	= "Helvey Eric Lee",
+   title	= "TRAFGEN: An Efficient Approach to Statistically Accurate Artificial Network Traffic Generation",
+   school	= {Universidade de Ohio},
+   year		=	1998,
+}
+
+@article{itg,
+	author  = {Stefano Avalone and Antonio Pescape and Giorgio Ventre},
+	title   = {Analysis and Experimentation of Internet Traffic Generator},
+	journal = {Next Generation Teletraffic and Wired/Wireless Advanced Networking},
+	year    = {2004},
+	address = "St. Petersburg, Russia",
+}
+
+@book{LIM,
+ 	author 		= {J.S LIM},
+ 	title 		= {Two-Dimensional Signal and Image Processing},
+ 	publisher 	= {Prentice Hall},
+ 	year 		= {2000},
+ 	address 	= {New Jersey},
+ 	booktitle 	= {Redes de computadores},
+ 	edition 	= {1ª},
+}
+
+@book{GONZALES,
+ 	author 		= {R.C Gonzales},
+ 	title 		= {Processamento de Imagens Digitais},
+ 	publisher 	= {Edgar Blücher},
+ 	year 		= {2000},
+ 	address 	= {São Paulo},
+ 	booktitle 	= {Processamento de Imagens Digitais},
+ 	edition 	= {1ª},
+}
+
+@article{GUANGZHI,
+ 	author 		= {GUANGZHI, C. and JIAQIAN and C JINGPING, J. },
+ 	title 		= {An Adaptative Approach to Vehicle},
+ 	journal 	= {ANNUAL INTERNATIONAL CONFERENCE OF THE IEEE },
+ 	year 		= {2003},
+ 	address 	= {Paris},
+ 	booktitle 	= {An Adaptative Approach to Vehicle},
+}
+
+@MastersThesis{PACHECO,
+   author	= "Márcio Alexandre Pacheco",
+   title	= { NOVA METODOLOGIA DE LOCALIZAÇÃO DE REGIÕES CANDIDATAS EM IMAGENS DIGITAIS 
+	           UTILIZANDO ARQUITETURAS RECONFIGURÁVEIS },
+   school	= {Universidade Federal de Santa Maria},
+   year		= {2007},
+}
+@misc{XILINX,
+	author 	= {XILINX},
+	title 	= {ML505/ML506/M ML506/ML507 Evaluation Platform L507 Evaluation },
+	note 	= {Disponível em: $<$http://www.xilinx.com$>$. Acesso em: março~2010},
+	year 	= {2009},
+}

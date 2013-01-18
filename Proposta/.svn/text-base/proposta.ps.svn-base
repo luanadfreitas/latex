@@ -1,0 +1,929 @@
+%!PS-Adobe-2.0
+%%Creator: dvips(k) 5.96.1 Copyright 2007 Radical Eye Software
+%%Title: proposta.dvi
+%%CreationDate: Tue Mar 24 14:59:17 2009
+%%Pages: 10
+%%PageOrder: Ascend
+%%BoundingBox: 0 0 596 842
+%%DocumentFonts: Times-Roman Times-Bold Times-Italic CMR12
+%%DocumentPaperSizes: a4
+%%EndComments
+%DVIPSWebPage: (www.radicaleye.com)
+%DVIPSCommandLine: dvips -o proposta.ps proposta.dvi
+%DVIPSParameters: dpi=600
+%DVIPSSource:  TeX output 2009.03.24:1458
+%%BeginProcSet: tex.pro 0 0
+%!
+/TeXDict 300 dict def TeXDict begin/N{def}def/B{bind def}N/S{exch}N/X{S
+N}B/A{dup}B/TR{translate}N/isls false N/vsize 11 72 mul N/hsize 8.5 72
+mul N/landplus90{false}def/@rigin{isls{[0 landplus90{1 -1}{-1 1}ifelse 0
+0 0]concat}if 72 Resolution div 72 VResolution div neg scale isls{
+landplus90{VResolution 72 div vsize mul 0 exch}{Resolution -72 div hsize
+mul 0}ifelse TR}if Resolution VResolution vsize -72 div 1 add mul TR[
+matrix currentmatrix{A A round sub abs 0.00001 lt{round}if}forall round
+exch round exch]setmatrix}N/@landscape{/isls true N}B/@manualfeed{
+statusdict/manualfeed true put}B/@copies{/#copies X}B/FMat[1 0 0 -1 0 0]
+N/FBB[0 0 0 0]N/nn 0 N/IEn 0 N/ctr 0 N/df-tail{/nn 8 dict N nn begin
+/FontType 3 N/FontMatrix fntrx N/FontBBox FBB N string/base X array
+/BitMaps X/BuildChar{CharBuilder}N/Encoding IEn N end A{/foo setfont}2
+array copy cvx N load 0 nn put/ctr 0 N[}B/sf 0 N/df{/sf 1 N/fntrx FMat N
+df-tail}B/dfs{div/sf X/fntrx[sf 0 0 sf neg 0 0]N df-tail}B/E{pop nn A
+definefont setfont}B/Cw{Cd A length 5 sub get}B/Ch{Cd A length 4 sub get
+}B/Cx{128 Cd A length 3 sub get sub}B/Cy{Cd A length 2 sub get 127 sub}
+B/Cdx{Cd A length 1 sub get}B/Ci{Cd A type/stringtype ne{ctr get/ctr ctr
+1 add N}if}B/CharBuilder{save 3 1 roll S A/base get 2 index get S
+/BitMaps get S get/Cd X pop/ctr 0 N Cdx 0 Cx Cy Ch sub Cx Cw add Cy
+setcachedevice Cw Ch true[1 0 0 -1 -.1 Cx sub Cy .1 sub]{Ci}imagemask
+restore}B/D{/cc X A type/stringtype ne{]}if nn/base get cc ctr put nn
+/BitMaps get S ctr S sf 1 ne{A A length 1 sub A 2 index S get sf div put
+}if put/ctr ctr 1 add N}B/I{cc 1 add D}B/bop{userdict/bop-hook known{
+bop-hook}if/SI save N @rigin 0 0 moveto/V matrix currentmatrix A 1 get A
+mul exch 0 get A mul add .99 lt{/QV}{/RV}ifelse load def pop pop}N/eop{
+SI restore userdict/eop-hook known{eop-hook}if showpage}N/@start{
+userdict/start-hook known{start-hook}if pop/VResolution X/Resolution X
+1000 div/DVImag X/IEn 256 array N 2 string 0 1 255{IEn S A 360 add 36 4
+index cvrs cvn put}for pop 65781.76 div/vsize X 65781.76 div/hsize X}N
+/p{show}N/RMat[1 0 0 -1 0 0]N/BDot 260 string N/Rx 0 N/Ry 0 N/V{}B/RV/v{
+/Ry X/Rx X V}B statusdict begin/product where{pop false[(Display)(NeXT)
+(LaserWriter 16/600)]{A length product length le{A length product exch 0
+exch getinterval eq{pop true exit}if}{pop}ifelse}forall}{false}ifelse
+end{{gsave TR -.1 .1 TR 1 1 scale Rx Ry false RMat{BDot}imagemask
+grestore}}{{gsave TR -.1 .1 TR Rx Ry scale 1 1 false RMat{BDot}
+imagemask grestore}}ifelse B/QV{gsave newpath transform round exch round
+exch itransform moveto Rx 0 rlineto 0 Ry neg rlineto Rx neg 0 rlineto
+fill grestore}B/a{moveto}B/delta 0 N/tail{A/delta X 0 rmoveto}B/M{S p
+delta add tail}B/b{S p tail}B/c{-4 M}B/d{-3 M}B/e{-2 M}B/f{-1 M}B/g{0 M}
+B/h{1 M}B/i{2 M}B/j{3 M}B/k{4 M}B/w{0 rmoveto}B/l{p -4 w}B/m{p -3 w}B/n{
+p -2 w}B/o{p -1 w}B/q{p 1 w}B/r{p 2 w}B/s{p 3 w}B/t{p 4 w}B/x{0 S
+rmoveto}B/y{3 2 roll p a}B/bos{/SS save N}B/eos{SS restore}B end
+
+%%EndProcSet
+%%BeginProcSet: 8r.enc 0 0
+% File 8r.enc  TeX Base 1 Encoding  Revision 2.0  2002-10-30
+%
+% @@psencodingfile@{
+%   author    = "S. Rahtz, P. MacKay, Alan Jeffrey, B. Horn, K. Berry,
+%                W. Schmidt, P. Lehman",
+%   version   = "2.0",
+%   date      = "27nov06",
+%   filename  = "8r.enc",
+%   email     = "tex-fonts@@tug.org",
+%   docstring = "This is the encoding vector for Type1 and TrueType
+%                fonts to be used with TeX.  This file is part of the
+%                PSNFSS bundle, version 9"
+% @}
+% 
+% The idea is to have all the characters normally included in Type 1 fonts
+% available for typesetting. This is effectively the characters in Adobe
+% Standard encoding, ISO Latin 1, Windows ANSI including the euro symbol,
+% MacRoman, and some extra characters from Lucida.
+% 
+% Character code assignments were made as follows:
+% 
+% (1) the Windows ANSI characters are almost all in their Windows ANSI
+% positions, because some Windows users cannot easily reencode the
+% fonts, and it makes no difference on other systems. The only Windows
+% ANSI characters not available are those that make no sense for
+% typesetting -- rubout (127 decimal), nobreakspace (160), softhyphen
+% (173). quotesingle and grave are moved just because it's such an
+% irritation not having them in TeX positions.
+% 
+% (2) Remaining characters are assigned arbitrarily to the lower part
+% of the range, avoiding 0, 10 and 13 in case we meet dumb software.
+% 
+% (3) Y&Y Lucida Bright includes some extra text characters; in the
+% hopes that other PostScript fonts, perhaps created for public
+% consumption, will include them, they are included starting at 0x12.
+% These are /dotlessj /ff /ffi /ffl.
+% 
+% (4) hyphen appears twice for compatibility with both ASCII and Windows.
+%
+% (5) /Euro was assigned to 128, as in Windows ANSI
+%
+% (6) Missing characters from MacRoman encoding incorporated as follows:
+%
+%     PostScript      MacRoman        TeXBase1
+%     --------------  --------------  --------------
+%     /notequal       173             0x16
+%     /infinity       176             0x17
+%     /lessequal      178             0x18
+%     /greaterequal   179             0x19
+%     /partialdiff    182             0x1A
+%     /summation      183             0x1B
+%     /product        184             0x1C
+%     /pi             185             0x1D
+%     /integral       186             0x81
+%     /Omega          189             0x8D
+%     /radical        195             0x8E
+%     /approxequal    197             0x8F
+%     /Delta          198             0x9D
+%     /lozenge        215             0x9E
+%
+/TeXBase1Encoding [
+% 0x00
+ /.notdef /dotaccent /fi /fl
+ /fraction /hungarumlaut /Lslash /lslash
+ /ogonek /ring /.notdef /breve
+ /minus /.notdef /Zcaron /zcaron
+% 0x10
+ /caron /dotlessi /dotlessj /ff
+ /ffi /ffl /notequal /infinity
+ /lessequal /greaterequal /partialdiff /summation
+ /product /pi /grave /quotesingle
+% 0x20
+ /space /exclam /quotedbl /numbersign
+ /dollar /percent /ampersand /quoteright
+ /parenleft /parenright /asterisk /plus
+ /comma /hyphen /period /slash
+% 0x30
+ /zero /one /two /three
+ /four /five /six /seven
+ /eight /nine /colon /semicolon
+ /less /equal /greater /question
+% 0x40
+ /at /A /B /C
+ /D /E /F /G
+ /H /I /J /K
+ /L /M /N /O
+% 0x50
+ /P /Q /R /S
+ /T /U /V /W
+ /X /Y /Z /bracketleft
+ /backslash /bracketright /asciicircum /underscore
+% 0x60
+ /quoteleft /a /b /c
+ /d /e /f /g
+ /h /i /j /k
+ /l /m /n /o
+% 0x70
+ /p /q /r /s
+ /t /u /v /w
+ /x /y /z /braceleft
+ /bar /braceright /asciitilde /.notdef
+% 0x80
+ /Euro /integral /quotesinglbase /florin
+ /quotedblbase /ellipsis /dagger /daggerdbl
+ /circumflex /perthousand /Scaron /guilsinglleft
+ /OE /Omega /radical /approxequal
+% 0x90
+ /.notdef /.notdef /.notdef /quotedblleft
+ /quotedblright /bullet /endash /emdash
+ /tilde /trademark /scaron /guilsinglright
+ /oe /Delta /lozenge /Ydieresis
+% 0xA0
+ /.notdef /exclamdown /cent /sterling
+ /currency /yen /brokenbar /section
+ /dieresis /copyright /ordfeminine /guillemotleft
+ /logicalnot /hyphen /registered /macron
+% 0xB0
+ /degree /plusminus /twosuperior /threesuperior
+ /acute /mu /paragraph /periodcentered
+ /cedilla /onesuperior /ordmasculine /guillemotright
+ /onequarter /onehalf /threequarters /questiondown
+% 0xC0
+ /Agrave /Aacute /Acircumflex /Atilde
+ /Adieresis /Aring /AE /Ccedilla
+ /Egrave /Eacute /Ecircumflex /Edieresis
+ /Igrave /Iacute /Icircumflex /Idieresis
+% 0xD0
+ /Eth /Ntilde /Ograve /Oacute
+ /Ocircumflex /Otilde /Odieresis /multiply
+ /Oslash /Ugrave /Uacute /Ucircumflex
+ /Udieresis /Yacute /Thorn /germandbls
+% 0xE0
+ /agrave /aacute /acircumflex /atilde
+ /adieresis /aring /ae /ccedilla
+ /egrave /eacute /ecircumflex /edieresis
+ /igrave /iacute /icircumflex /idieresis
+% 0xF0
+ /eth /ntilde /ograve /oacute
+ /ocircumflex /otilde /odieresis /divide
+ /oslash /ugrave /uacute /ucircumflex
+ /udieresis /yacute /thorn /ydieresis
+] def
+
+
+%%EndProcSet
+%%BeginProcSet: texps.pro 0 0
+%!
+TeXDict begin/rf{findfont dup length 1 add dict begin{1 index/FID ne 2
+index/UniqueID ne and{def}{pop pop}ifelse}forall[1 index 0 6 -1 roll
+exec 0 exch 5 -1 roll VResolution Resolution div mul neg 0 0]FontType 0
+ne{/Metrics exch def dict begin Encoding{exch dup type/integertype ne{
+pop pop 1 sub dup 0 le{pop}{[}ifelse}{FontMatrix 0 get div Metrics 0 get
+div def}ifelse}forall Metrics/Metrics currentdict end def}{{1 index type
+/nametype eq{exit}if exch pop}loop}ifelse[2 index currentdict end
+definefont 3 -1 roll makefont/setfont cvx]cvx def}def/ObliqueSlant{dup
+sin S cos div neg}B/SlantFont{4 index mul add}def/ExtendFont{3 -1 roll
+mul exch}def/ReEncodeFont{CharStrings rcheck{/Encoding false def dup[
+exch{dup CharStrings exch known not{pop/.notdef/Encoding true def}if}
+forall Encoding{]exch pop}{cleartomark}ifelse}if/Encoding exch def}def
+end
+
+%%EndProcSet
+%%BeginProcSet: special.pro 0 0
+%!
+TeXDict begin/SDict 200 dict N SDict begin/@SpecialDefaults{/hs 612 N
+/vs 792 N/ho 0 N/vo 0 N/hsc 1 N/vsc 1 N/ang 0 N/CLIP 0 N/rwiSeen false N
+/rhiSeen false N/letter{}N/note{}N/a4{}N/legal{}N}B/@scaleunit 100 N
+/@hscale{@scaleunit div/hsc X}B/@vscale{@scaleunit div/vsc X}B/@hsize{
+/hs X/CLIP 1 N}B/@vsize{/vs X/CLIP 1 N}B/@clip{/CLIP 2 N}B/@hoffset{/ho
+X}B/@voffset{/vo X}B/@angle{/ang X}B/@rwi{10 div/rwi X/rwiSeen true N}B
+/@rhi{10 div/rhi X/rhiSeen true N}B/@llx{/llx X}B/@lly{/lly X}B/@urx{
+/urx X}B/@ury{/ury X}B/magscale true def end/@MacSetUp{userdict/md known
+{userdict/md get type/dicttype eq{userdict begin md length 10 add md
+maxlength ge{/md md dup length 20 add dict copy def}if end md begin
+/letter{}N/note{}N/legal{}N/od{txpose 1 0 mtx defaultmatrix dtransform S
+atan/pa X newpath clippath mark{transform{itransform moveto}}{transform{
+itransform lineto}}{6 -2 roll transform 6 -2 roll transform 6 -2 roll
+transform{itransform 6 2 roll itransform 6 2 roll itransform 6 2 roll
+curveto}}{{closepath}}pathforall newpath counttomark array astore/gc xdf
+pop ct 39 0 put 10 fz 0 fs 2 F/|______Courier fnt invertflag{PaintBlack}
+if}N/txpose{pxs pys scale ppr aload pop por{noflips{pop S neg S TR pop 1
+-1 scale}if xflip yflip and{pop S neg S TR 180 rotate 1 -1 scale ppr 3
+get ppr 1 get neg sub neg ppr 2 get ppr 0 get neg sub neg TR}if xflip
+yflip not and{pop S neg S TR pop 180 rotate ppr 3 get ppr 1 get neg sub
+neg 0 TR}if yflip xflip not and{ppr 1 get neg ppr 0 get neg TR}if}{
+noflips{TR pop pop 270 rotate 1 -1 scale}if xflip yflip and{TR pop pop
+90 rotate 1 -1 scale ppr 3 get ppr 1 get neg sub neg ppr 2 get ppr 0 get
+neg sub neg TR}if xflip yflip not and{TR pop pop 90 rotate ppr 3 get ppr
+1 get neg sub neg 0 TR}if yflip xflip not and{TR pop pop 270 rotate ppr
+2 get ppr 0 get neg sub neg 0 S TR}if}ifelse scaleby96{ppr aload pop 4
+-1 roll add 2 div 3 1 roll add 2 div 2 copy TR .96 dup scale neg S neg S
+TR}if}N/cp{pop pop showpage pm restore}N end}if}if}N/normalscale{
+Resolution 72 div VResolution 72 div neg scale magscale{DVImag dup scale
+}if 0 setgray}N/psfts{S 65781.76 div N}N/startTexFig{/psf$SavedState
+save N userdict maxlength dict begin/magscale true def normalscale
+currentpoint TR/psf$ury psfts/psf$urx psfts/psf$lly psfts/psf$llx psfts
+/psf$y psfts/psf$x psfts currentpoint/psf$cy X/psf$cx X/psf$sx psf$x
+psf$urx psf$llx sub div N/psf$sy psf$y psf$ury psf$lly sub div N psf$sx
+psf$sy scale psf$cx psf$sx div psf$llx sub psf$cy psf$sy div psf$ury sub
+TR/showpage{}N/erasepage{}N/setpagedevice{pop}N/copypage{}N/p 3 def
+@MacSetUp}N/doclip{psf$llx psf$lly psf$urx psf$ury currentpoint 6 2 roll
+newpath 4 copy 4 2 roll moveto 6 -1 roll S lineto S lineto S lineto
+closepath clip newpath moveto}N/endTexFig{end psf$SavedState restore}N
+/@beginspecial{SDict begin/SpecialSave save N gsave normalscale
+currentpoint TR @SpecialDefaults count/ocount X/dcount countdictstack N}
+N/@setspecial{CLIP 1 eq{newpath 0 0 moveto hs 0 rlineto 0 vs rlineto hs
+neg 0 rlineto closepath clip}if ho vo TR hsc vsc scale ang rotate
+rwiSeen{rwi urx llx sub div rhiSeen{rhi ury lly sub div}{dup}ifelse
+scale llx neg lly neg TR}{rhiSeen{rhi ury lly sub div dup scale llx neg
+lly neg TR}if}ifelse CLIP 2 eq{newpath llx lly moveto urx lly lineto urx
+ury lineto llx ury lineto closepath clip}if/showpage{}N/erasepage{}N
+/setpagedevice{pop}N/copypage{}N newpath}N/@endspecial{count ocount sub{
+pop}repeat countdictstack dcount sub{end}repeat grestore SpecialSave
+restore end}N/@defspecial{SDict begin}N/@fedspecial{end}B/li{lineto}B
+/rl{rlineto}B/rc{rcurveto}B/np{/SaveX currentpoint/SaveY X N 1
+setlinecap newpath}N/st{stroke SaveX SaveY moveto}N/fil{fill SaveX SaveY
+moveto}N/ellipse{/endangle X/startangle X/yrad X/xrad X/savematrix
+matrix currentmatrix N TR xrad yrad scale 0 0 1 startangle endangle arc
+savematrix setmatrix}N end
+
+%%EndProcSet
+%%BeginProcSet: color.pro 0 0
+%!
+TeXDict begin/setcmykcolor where{pop}{/setcmykcolor{dup 10 eq{pop
+setrgbcolor}{1 sub 4 1 roll 3{3 index add neg dup 0 lt{pop 0}if 3 1 roll
+}repeat setrgbcolor pop}ifelse}B}ifelse/TeXcolorcmyk{setcmykcolor}def
+/TeXcolorrgb{setrgbcolor}def/TeXcolorgrey{setgray}def/TeXcolorgray{
+setgray}def/TeXcolorhsb{sethsbcolor}def/currentcmykcolor where{pop}{
+/currentcmykcolor{currentrgbcolor 10}B}ifelse/DC{exch dup userdict exch
+known{pop pop}{X}ifelse}B/GreenYellow{0.15 0 0.69 0 setcmykcolor}DC
+/Yellow{0 0 1 0 setcmykcolor}DC/Goldenrod{0 0.10 0.84 0 setcmykcolor}DC
+/Dandelion{0 0.29 0.84 0 setcmykcolor}DC/Apricot{0 0.32 0.52 0
+setcmykcolor}DC/Peach{0 0.50 0.70 0 setcmykcolor}DC/Melon{0 0.46 0.50 0
+setcmykcolor}DC/YellowOrange{0 0.42 1 0 setcmykcolor}DC/Orange{0 0.61
+0.87 0 setcmykcolor}DC/BurntOrange{0 0.51 1 0 setcmykcolor}DC
+/Bittersweet{0 0.75 1 0.24 setcmykcolor}DC/RedOrange{0 0.77 0.87 0
+setcmykcolor}DC/Mahogany{0 0.85 0.87 0.35 setcmykcolor}DC/Maroon{0 0.87
+0.68 0.32 setcmykcolor}DC/BrickRed{0 0.89 0.94 0.28 setcmykcolor}DC/Red{
+0 1 1 0 setcmykcolor}DC/OrangeRed{0 1 0.50 0 setcmykcolor}DC/RubineRed{
+0 1 0.13 0 setcmykcolor}DC/WildStrawberry{0 0.96 0.39 0 setcmykcolor}DC
+/Salmon{0 0.53 0.38 0 setcmykcolor}DC/CarnationPink{0 0.63 0 0
+setcmykcolor}DC/Magenta{0 1 0 0 setcmykcolor}DC/VioletRed{0 0.81 0 0
+setcmykcolor}DC/Rhodamine{0 0.82 0 0 setcmykcolor}DC/Mulberry{0.34 0.90
+0 0.02 setcmykcolor}DC/RedViolet{0.07 0.90 0 0.34 setcmykcolor}DC
+/Fuchsia{0.47 0.91 0 0.08 setcmykcolor}DC/Lavender{0 0.48 0 0
+setcmykcolor}DC/Thistle{0.12 0.59 0 0 setcmykcolor}DC/Orchid{0.32 0.64 0
+0 setcmykcolor}DC/DarkOrchid{0.40 0.80 0.20 0 setcmykcolor}DC/Purple{
+0.45 0.86 0 0 setcmykcolor}DC/Plum{0.50 1 0 0 setcmykcolor}DC/Violet{
+0.79 0.88 0 0 setcmykcolor}DC/RoyalPurple{0.75 0.90 0 0 setcmykcolor}DC
+/BlueViolet{0.86 0.91 0 0.04 setcmykcolor}DC/Periwinkle{0.57 0.55 0 0
+setcmykcolor}DC/CadetBlue{0.62 0.57 0.23 0 setcmykcolor}DC
+/CornflowerBlue{0.65 0.13 0 0 setcmykcolor}DC/MidnightBlue{0.98 0.13 0
+0.43 setcmykcolor}DC/NavyBlue{0.94 0.54 0 0 setcmykcolor}DC/RoyalBlue{1
+0.50 0 0 setcmykcolor}DC/Blue{1 1 0 0 setcmykcolor}DC/Cerulean{0.94 0.11
+0 0 setcmykcolor}DC/Cyan{1 0 0 0 setcmykcolor}DC/ProcessBlue{0.96 0 0 0
+setcmykcolor}DC/SkyBlue{0.62 0 0.12 0 setcmykcolor}DC/Turquoise{0.85 0
+0.20 0 setcmykcolor}DC/TealBlue{0.86 0 0.34 0.02 setcmykcolor}DC
+/Aquamarine{0.82 0 0.30 0 setcmykcolor}DC/BlueGreen{0.85 0 0.33 0
+setcmykcolor}DC/Emerald{1 0 0.50 0 setcmykcolor}DC/JungleGreen{0.99 0
+0.52 0 setcmykcolor}DC/SeaGreen{0.69 0 0.50 0 setcmykcolor}DC/Green{1 0
+1 0 setcmykcolor}DC/ForestGreen{0.91 0 0.88 0.12 setcmykcolor}DC
+/PineGreen{0.92 0 0.59 0.25 setcmykcolor}DC/LimeGreen{0.50 0 1 0
+setcmykcolor}DC/YellowGreen{0.44 0 0.74 0 setcmykcolor}DC/SpringGreen{
+0.26 0 0.76 0 setcmykcolor}DC/OliveGreen{0.64 0 0.95 0.40 setcmykcolor}
+DC/RawSienna{0 0.72 1 0.45 setcmykcolor}DC/Sepia{0 0.83 1 0.70
+setcmykcolor}DC/Brown{0 0.81 1 0.60 setcmykcolor}DC/Tan{0.14 0.42 0.56 0
+setcmykcolor}DC/Gray{0 0 0 0.50 setcmykcolor}DC/Black{0 0 0 1
+setcmykcolor}DC/White{0 0 0 0 setcmykcolor}DC end
+
+%%EndProcSet
+%%BeginFont: CMR12
+%!PS-AdobeFont-1.1: CMR12 1.0
+%%CreationDate: 1991 Aug 20 16:38:05
+% Copyright (C) 1997 American Mathematical Society. All Rights Reserved.
+11 dict begin
+/FontInfo 7 dict dup begin
+/version (1.0) readonly def
+/Notice (Copyright (C) 1997 American Mathematical Society. All Rights Reserved) readonly def
+/FullName (CMR12) readonly def
+/FamilyName (Computer Modern) readonly def
+/Weight (Medium) readonly def
+/ItalicAngle 0 def
+/isFixedPitch false def
+end readonly def
+/FontName /CMR12 def
+/PaintType 0 def
+/FontType 1 def
+/FontMatrix [0.001 0 0 0.001 0 0] readonly def
+/Encoding 256 array
+0 1 255 {1 index exch /.notdef put} for
+dup 49 /one put
+dup 54 /six put
+readonly def
+/FontBBox{-34 -251 988 750}readonly def
+currentdict end
+currentfile eexec
+D9D66F633B846A97B686A97E45A3D0AA052A014267B7904EB3C0D3BD0B83D891
+016CA6CA4B712ADEB258FAAB9A130EE605E61F77FC1B738ABC7C51CD46EF8171
+9098D5FEE67660E69A7AB91B58F29A4D79E57022F783EB0FBBB6D4F4EC35014F
+D2DECBA99459A4C59DF0C6EBA150284454E707DC2100C15B76B4C19B84363758
+469A6C558785B226332152109871A9883487DD7710949204DDCF837E6A8708B8
+2BDBF16FBC7512FAA308A093FE5CF4E9D2405B169CD5365D6ECED5D768D66D6C
+68618B8C482B341F8CA38E9BB9BAFCFAAD9C2F3FD033B62690986ED43D9C9361
+3645B82392D5CAE11A7CB49D7E2E82DCD485CBA04C77322EB2E6A79D73DC194E
+59C120A2DABB9BF72E2CF256DD6EB54EECBA588101ABD933B57CE8A3A0D16B28
+51D7494F73096DF53BDC66BBF896B587DF9643317D5F610CD9088F9849126F23
+DDE030F7B277DD99055C8B119CAE9C99158AC4E150CDFC2C66ED92EBB4CC092A
+AA078CE16247A1335AD332DAA950D20395A7384C33FF72EAA31A5B89766E635F
+45C4C068AD7EE867398F0381B07CB94D29FF097D59FF9961D195A948E3D87C31
+821E9295A56D21875B41988F7A16A1587050C3C71B4E4355BB37F255D6B237CE
+96F25467F70FA19E0F85785FF49068949CCC79F2F8AE57D5F79BB9C5CF5EED5D
+9857B9967D9B96CDCF73D5D65FF75AFABB66734018BAE264597220C89FD17379
+26764A9302D078B4EB0E29178C878FD61007EEA2DDB119AE88C57ECFEF4B71E4
+140A34951DDC3568A84CC92371A789021A103A1A347050FDA6ECF7903F67D213
+1D0C7C474A9053866E9C88E65E6932BA87A73686EAB0019389F84D159809C498
+1E7A30ED942EB211B00DBFF5BCC720F4E276C3339B31B6EABBB078430E6A09BB
+377D3061A20B1EB98796B8607EECBC699445EAA866C38E02DF59F5EDD378303A
+0733B90E7835C0AAF32BA04F1566D8161EA89CD4D14DDB953F8B910BFC8A7F03
+5020F55EF8FC2640ADADA156F6CF8F2EB6610F7EE8874A26CBE7CD154469B9F4
+ED76886B3FB679FFDEB59BB6C55AF7087BA48B75EE2FB374B19BCC421A963E15
+FE05ECAAF9EECDF4B2715010A320102E6F8CCAA342FA11532671CCCC52875960
+84CC1832A068F03077BAA0C4DE33C949791A4CEEE74C93E7590B8AE2D373B61B
+2788BE4611BE2D9B0A0BAEB388AE179AC3A42C59304DEC12CA3F75B0FEBF535C
+E1BF25FAAE5A4DDB1716487BED1FDE77F5D68DDA54D5E881C926B52BFFE11AAF
+3709C5A32E51AF57C3D9DF553E0BF16FAD023F6124FB212749DEA0EDC618A917
+B10B51A3276B83B447F4578FBC49321D8DC6B3478E703221B53229EFA8991421
+761C160E619CFE03AB1436B0D58F2459F24B59E8216A79FA4CBCBFE4614586B6
+9F96409FA97354A7A04AD9C38A8390713D010040C0B315E037BBC59F1D711F6F
+3A13E3F452116C960ABEEFDD8E0597195D2399D58848B67FBAB238DD93CC1157
+8A52425F00939E4B1B3BFE98E20B8E42958B563A1AE20221C72DAD16466FC361
+A0CA25121D6AC51A05827CC2C3896974482917A38D40B2123936B4FBD6293D4D
+95C397289A11DD212E90F4BF06368308205B9E6A3859A1B680E9FF0F216336AC
+E0184C2E8043300BEF139BCE4D1AA4EC512D7DE127A612F6F96A6007688AFAD6
+02496B38840083693B364082833CB42B1C206DC3D9B476EC6D30F754C6906348
+9830BA67A6F37069B29409431989A0
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000
+cleartomark
+%%EndFont 
+TeXDict begin 39158280 55380996 1000 600 600 (proposta.dvi)
+@start /Fa 201[49 4[49 49[{}2 99.6264 /CMR12 rf /Fb 134[44
+1[66 1[50 28 39 39 50 50 50 50 72 28 2[28 50 50 28 44
+50 44 50 50 10[61 1[55 50 61 1[61 2[83 3[33 72 72 61
+2[66 1[61 19[33 45[{TeXBase1Encoding ReEncodeFont}34
+99.6264 /Times-Italic rf /Fc 199[45 45 45 45 45 45 45
+50[{TeXBase1Encoding ReEncodeFont}7 90.9091 /Times-Roman
+rf /Fd 56[72 3[72 1[72 71[50 3[55 33 39 44 1[55 50 55
+83 3[28 55 1[33 44 55 1[55 50 10[72 72 66 1[72 78 61
+78 72 94 66 1[50 39 78 78 61 66 72 72 66 72 1[50 15[28
+5[33 33 40[{TeXBase1Encoding ReEncodeFont}43 99.6264
+/Times-Bold rf /Fe 5[50 4[50 1[50 5[28 2[44 44 1[44 3[44
+1[44 25[66 3[72 1[72 70[44 1[50 72 50 50 28 39 33 50
+50 50 50 78 28 1[28 28 50 50 33 44 50 44 50 44 1[50 4[61
+72 2[72 72 61 55 66 1[55 72 72 89 61 72 39 33 72 72 55
+61 72 66 66 72 6[28 50 50 1[50 50 50 50 50 50 50 1[25
+33 25 2[33 33 36[55 55 2[{TeXBase1Encoding ReEncodeFont}77
+99.6264 /Times-Roman rf end
+%%EndProlog
+%%BeginSetup
+%%Feature: *Resolution 600dpi
+TeXDict begin
+%%BeginPaperSize: a4
+/setpagedevice where
+{ pop << /PageSize [595 842] >> setpagedevice }
+{ /a4 where { pop a4 } if }
+ifelse
+%%EndPaperSize
+ end
+%%EndSetup
+%%Page: 1 1
+TeXDict begin 1 0 bop Black Black 1043 203 a Fe(UNIVERSID)l(ADE)25
+b(DE)g(SANT)-9 b(A)25 b(CR)l(UZ)g(DO)g(SUL)1168 323 y(DEP)-9
+b(AR)j(T)d(AMENT)n(O)24 b(DE)h(INFORM\301TICA)563 444
+y(CURSO)h(DE)f(GRADU)l(A\307\303O)g(EM)g(ENGENHARIA)g(DE)f(COMPUT)-9
+b(A\307\303O)452 1984 y Fd(GERADOR)24 b(DE)h(TR\301FEGO)f(ETHERNET)j(A)
+e(P)-7 b(AR)l(TIR)24 b(DE)i(UM)e(MODELO)1624 2165 y Fe(\(T\355tulo)g
+(Pro)o(vis\363rio\))1932 2582 y(por)1659 2998 y(Cristiano)h(Battisti)
+1253 3415 y(Proposta)g(para)g(T)m(rabalho)f(de)h(Conclus\343o)p
+Black Black 1318 4650 a(Prof.)h(Dr)-5 b(.)24 b(Raf)o(ael)i(Ramos)f(dos)
+f(Santos)1783 4771 y(Orientador)1316 6019 y(Santa)i(Cruz)f(do)g(Sul,)f
+(mar\347o)h(de)g(2009)p Black Black eop end
+%%Page: 1 2
+TeXDict begin 1 1 bop Black Black 1043 203 a Fe(UNIVERSID)l(ADE)25
+b(DE)g(SANT)-9 b(A)25 b(CR)l(UZ)g(DO)g(SUL)1168 323 y(DEP)-9
+b(AR)j(T)d(AMENT)n(O)24 b(DE)h(INFORM\301TICA)563 444
+y(CURSO)h(DE)f(GRADU)l(A\307\303O)g(EM)g(ENGENHARIA)g(DE)f(COMPUT)-9
+b(A\307\303O)452 1984 y Fd(GERADOR)24 b(DE)h(TR\301FEGO)f(ETHERNET)j(A)
+e(P)-7 b(AR)l(TIR)24 b(DE)i(UM)e(MODELO)1624 2165 y Fe(\(T\355tulo)g
+(Pro)o(vis\363rio\))1932 2582 y(por)1659 2998 y(Cristiano)h(Battisti)
+1253 3415 y(Proposta)g(para)g(T)m(rabalho)f(de)h(Conclus\343o)p
+Black Black 1318 4254 a(Prof.)h(Dr)-5 b(.)24 b(Raf)o(ael)i(Ramos)f(dos)
+f(Santos)1783 4374 y(Orientador)1561 4731 y(Prof.)31
+b(Rolf)25 b(Fredi)h(Molz)1804 4851 y(A)-7 b(v)n(aliador)1316
+6019 y(Santa)26 b(Cruz)f(do)g(Sul,)f(mar\347o)h(de)g(2009)p
+Black Black eop end
+%%Page: 1 3
+TeXDict begin 1 2 bop Black Black 1043 203 a Fe(UNIVERSID)l(ADE)25
+b(DE)g(SANT)-9 b(A)25 b(CR)l(UZ)g(DO)g(SUL)1168 323 y(DEP)-9
+b(AR)j(T)d(AMENT)n(O)24 b(DE)h(INFORM\301TICA)563 444
+y(CURSO)h(DE)f(GRADU)l(A\307\303O)g(EM)g(ENGENHARIA)g(DE)f(COMPUT)-9
+b(A\307\303O)452 1984 y Fd(GERADOR)24 b(DE)h(TR\301FEGO)f(ETHERNET)j(A)
+e(P)-7 b(AR)l(TIR)24 b(DE)i(UM)e(MODELO)1624 2165 y Fe(\(T\355tulo)g
+(Pro)o(vis\363rio\))1932 2582 y(por)1659 2998 y(Cristiano)h(Battisti)
+1253 3415 y(Proposta)g(para)g(T)m(rabalho)f(de)h(Conclus\343o)p
+Black Black 1318 4254 a(Prof.)h(Dr)-5 b(.)24 b(Raf)o(ael)i(Ramos)f(dos)
+f(Santos)1783 4374 y(Orientador)1738 4731 y(Raf)o(ael)i(K)o(unst)1804
+4851 y(A)-7 b(v)n(aliador)1316 6019 y(Santa)26 b(Cruz)f(do)g(Sul,)f
+(mar\347o)h(de)g(2009)p Black Black eop end
+%%Page: 2 4
+TeXDict begin 2 3 bop Black 1998 -30 a Fc(2)p Black Black
+Black 1696 627 a Fd(INTR)m(ODU\307\303)l(O)345 1033 y
+Fe(A)31 b(grande)g(e)o(xpans\343o)f(da)h(tecnologia)e(troux)o(e)h
+(consigo)g(o)h(aumento)f(das)g(redes)h(de)g(computadores)109
+1154 y(e)38 b(a)g(necessidade)g(de)g(equipamentos)e(capazes)j(de)f
+(suportar)f(a)h(grande)g(quantidade)f(de)h(dados)g(gerada)109
+1274 y(por)25 b(essas)g(redes.)33 b(P)o(ara)27 b(suprir)e(essa)g
+(necessidade)g(as)h(empresas)f(est\343o)h(constantemente)e(desen)l(v)n
+(olv)o(endo)109 1395 y(no)o(v)n(os)f(equipamentos)g(para)j(pro)o(v)o
+(er)e(aos)g(usu\341rios)g(a)i(capacidade)f(de)g(rede)g(que)g(eles)g
+(necessitam.)345 1565 y(Sendo)h(que)f(as)h(ino)o(v)n(a\347\365es)e
+(s\343o)i(a)g(principal)f(fonte)g(de)h(renda)g(das)g(empresas,)f(esses)
+h(equipamentos)109 1685 y(de)n(v)o(em)k(ser)h(testados)g(e)o(xausti)n
+(v)n(amente.)47 b(Com)31 b(isso,)h(se)g(f)o(az)g(necess\341rias)f
+(metodologias)e(e)j(ferramentas)109 1806 y(capazes)25
+b(de)g(testar)g(o)g(desempenho)f(e)h(apontar)f(f)o(alhas.)345
+1976 y(Ferramentas)32 b(e)f(processo)g(de)h(testes)e(s\343o)h(moti)n(v)
+n(os)e(de)j(v)n(arias)e(pesquisas)h(na)g(\341rea)h(de)g(comunica-)109
+2096 y(\347\343o.)48 b(K)m(olling)28 b(\(K)m(OLLING)j(et)f(al.)48
+b(2008\),)32 b(traz)f(a)f(proposta)g(de)h(v)o(eri\002ca\347\343o)g(de)g
+(componentes)e(de)i(rede)109 2217 y(utilizando)21 b(uma)i(plataforma)f
+(recon\002gur\341v)o(el,)h(onde)g(implementou)e(dois)h(testes)g
+(de\002nidos)g(na)h(RFC)i(\()p Fb(Re-)109 2337 y(quest)f(for)h
+(Comments)p Fe(\))g(2544.)31 b(Dib)n(uz)25 b(\(DIB)o(UZ)h(et)f(al.)32
+b(2006\),)25 b(realiza)h(testes)f(de)g(interoperabilidade)f(em)109
+2457 y(equipamentos)d(de)i(telecomunica\347\343o)f(utilizando)f(a)i
+(ferramenta)h(MAIT)e(\()p Fb(Model)g(for)h(A)n(utomated)e(Inter)l(o-)
+109 2578 y(per)o(ability)f(T)-9 b(est)r Fe(\).)30 b(Nos)23
+b(dois)f(casos,)h(s\343o)f(utilizados)g(\003uxos)g(indi)n(viduais)e
+(com)j(tamanho)f(e)h(caracter\355sticas)109 2698 y(\002xas)i(para)g
+(realizar)h(os)e(testes.)345 2868 y(Este)30 b(trabalho)h(prop\365e)g(o)
+f(desen)l(v)n(olvimento)f(de)i(um)g(m\363dulo)e(que)i(seja)g(capaz)h
+(de)f(recriar)h(as)f(ca-)109 2989 y(racter\355sticas)i(de)g(uma)g(rede)
+g(a)h(partir)f(de)g(um)f(modelo)g(estat\355stico)g(pre)n(viamente)g
+(criado.)56 b(Sendo)33 b(que)g(a)109 3109 y(implementa\347\343o)25
+b(do)i(m\363dulo)e(ser\341)j(feita)f(em)f(uma)h(plataforma)f
+(recon\002gur\341v)o(el,)i(o)e(modelo)g(de)n(v)o(e)g(conter)109
+3229 y(informa\347\365es)k(compactas)f(de)i(modo)e(a)i(n\343o)f
+(utilizar)g(grande)g(quantidade)g(de)g(espa\347o.)48
+b(Este)30 b(modelo)f(de)109 3350 y(tr\341fe)o(go)21 b(conter\341)i(as)f
+(caracter\355sticas)g(da)h(rede,)g(incluindo)d(protocolos,)h(tamanho)h
+(de)g(quadros,)g(endere\347os,)109 3470 y(entre)j(outros.)p
+Black Black eop end
+%%Page: 3 5
+TeXDict begin 3 4 bop Black 1998 -30 a Fc(3)p Black Black
+Black 1731 677 a Fd(MO)l(TIV)-13 b(A)-5 b(\307\303)l(O)345
+1083 y Fe(Atualmente)29 b(as)h(solu\347\365es)f(empre)o(gadas)g(para)i
+(gera\347\343o)f(de)h(tr\341fe)o(go)e(de)i(teste)e(s\343o)h
+(in\372meras,)h(mas)109 1204 y(somente)c(s\343o)i(capazes)g(de)g(criar)
+g(\003uxos)f(indi)n(viduais)e(com)i(a)h(mesma)f(caracter\355stica,)i
+(sendo)e(assim)f(nor)n(-)109 1324 y(malmente)18 b(n\343o)i(testam)e(o)i
+(processamento)e(necess\341rio)i(para)g(se)g(decodi\002car)g(alguns)f
+(tipos)f(de)i(protocolos.)109 1444 y(Isto)k(f)o(az)i(com)e(que)h(seja)g
+(necess\341rio)f(a)i(cria\347\343o)f(de)g(m\351todo)f(capaz)i(de)e
+(testar)h(uma)g(rede)g(neste)g(n\355v)o(el.)345 1615
+y(O)36 b(grande)g(problema)f(\351)h(que,)j(mesmo)34 b(o)i(m\363dulo)e
+(de)i(teste)g(conse)o(guindo)e(gerar)i(o)g Fb(Thr)l(oughput)109
+1735 y Fe(\()p Fd(?)p Fe(\))45 b(m\341ximo)28 b(as)h(interf)o(aces)h
+(que)g(en)l(viam)f(as)g(informa\347\365es)g(para)h(o)g(m\363dulo)e
+(n\343o)h(suportam)f(tal)i(taxa)f(de)109 1855 y(trafe)o(go.)43
+b(O)29 b(problema)g(se)g(da,)i(pois,)e(normalmente,)g(os)g(dados)g(que)
+g(se)g(necessita)g(colocar)g(na)h(rede,)g(s\343o)109
+1976 y(gerados)e(por)g(softw)o(are,)h(isto)e(pelo)g(alto)h(n\355v)o(el)
+f(de)h(comple)o(xidade)f(que)h(a)g(gera\347\343o)h(deste)f(tipo)f(de)i
+(tr\341fe)o(go)109 2096 y(em)20 b(uma)f(arquitetura)h(feita)g(em)g
+(hardw)o(are,)h(e)g(tamb\351m)e(pela)h(\003e)o(xibilidade)f(que)h(o)f
+(softw)o(are)i(proporciona.)p Black Black eop end
+%%Page: 4 6
+TeXDict begin 4 5 bop Black 1998 -30 a Fc(4)p Black Black
+Black 1783 677 a Fd(OBJETIV)l(O)345 1083 y Fe(A)35 b(grande)h
+(quantidade)e(e)i(heterogeneidade)f(dos)f(equipamentos)g(de)i
+(intercone)o(x\343o)e(f)o(azem)i(com)109 1204 y(que)23
+b(sejam)h(necess\341rios)f(testes)g(capazes)i(de)f(n\343o)f(testar)h
+(apenas)g(uma)f(camada)h(do)g(modelo)e(OSI)j(\()p Fd(?)p
+Fe(\),)f(mas)109 1324 y(sim)g(v)n(arias)g(delas.)345
+1494 y(O)h(objeti)n(v)n(o)f(desse)i(trabalho)f(\351)h(desen)l(v)n(olv)o
+(er)e(um)h(m\363dulo)f(capaz)j(de)e(gerar)i(per\002s)f(de)f(rede)i(a)e
+(partir)109 1615 y(de)e(modelos)f(compactos)h(pre)n(viamente)f
+(gerados.)30 b(Este)23 b(m\351todo)g(reduz,)h(ou)f(ate)g(e)n(vita,)g(a)
+h(depend\352ncia)f(de)109 1735 y(gera\347\343o)28 b(de)g(trafe)o(go,)g
+(a)g(v)o(elocidade)f(de)h(uma)f(interf)o(ace)h(de)g(comunica\347\343o)f
+(entre)h(o)g(m\363dulo)e(de)i(teste)f(e)h(a)109 1855
+y(arquitetura)g(respons\341v)o(el)g(por)h(manter)g(os)g(dados)g(do)g
+(modelo,)g(que)g(pode)f(ser)i(um)e(sistema)g(operacional)109
+1976 y(embarcado)d(ou)f(at\351)h(uma)g(mem\363ria.)p
+Black Black eop end
+%%Page: 5 7
+TeXDict begin 5 6 bop Black 1998 -30 a Fc(5)p Black Black
+Black 1646 651 a Fd(MET)n(ODOLOGIA)345 1058 y Fe(A)35
+b(maioria)f(dos)h(dispositi)n(v)n(os)c(desen)l(v)n(olvidos)j(para)h(a)n
+(v)n(aliar)g(a)g(rede,)j(somente)c(testa)h(as)g(primei-)109
+1178 y(ras)29 b(camadas)g(do)f(modelo)g(OSI,)h(utilizando)f(para)h
+(isso)f(testes)g(descritos)h(em)f(normas)g(chamadas)h(RFCs.)109
+1299 y(A)k(RFC)i(2544)e(\()p Fd(?)p Fe(\))56 b(descre)n(v)o(e)33
+b(os)g(principais)g(testes)f(de)i(uma)f(rede,)j(estes)d(testes)g
+(consistem)f(principal-)109 1419 y(mente)26 b(na)h(cria\347\343o)g(de)g
+(quadros)g(e)g(a)g(v)o(eri\002ca\347\343o)g(da)g(quantidade)f(dos)g
+(quadros,)h(sem)f(le)n(v)n(ar)g(em)h(conta)g(os)109 1539
+y(protocolos)c(utilizados)h(e)h(o)f(processamento)g(necess\341rio)h
+(para)h(decodi\002c\341-los.)345 1709 y(P)o(ara)35 b(isso,)h(\351)f
+(necess\341rio)f(a)h(cria\347\343o)g(de)g(um)f(per\002l)h(de)g(rede)g
+(por)f(softw)o(are.)60 b(Estes)34 b(padr\365es)g(s\343o)109
+1830 y(repassados)39 b(para)h(o)g(m\363dulo)e(de)h(teste)h(que)f(\351)h
+(respons\341v)o(el)f(pela)g(gera\347\343o)i(dos)e(quadros.)75
+b(O)39 b(grande)109 1950 y(problema)23 b(est\341)i(no)f(en)l(vio)f
+(destes)h(dados)g(para)h(o)f(m\363dulo)f(de)h(testes,)g(j\341)g(que)g
+(as)h(interf)o(aces)f(n\343o)g(suportam)109 2071 y(tal)g(taxa)h(de)g(v)
+n(az\343o.)345 2241 y(A)30 b(T)-8 b(abela)30 b(1)f(mostra)g(um)h
+(c\341lculo)f(preliminar)g(do)h(tamanho)f(do)g(b)n(uf)n(fer)h
+(necess\341rio)g(para)g(a)g(trans-)109 2361 y(miss\343o)22
+b(continua)h(de)h(um)g(\003uxo)f(de)h(transmiss\343o,)f(le)n(v)n(ando)f
+(em)i(considera\347\343o)g(uma)f(interf)o(ace)i(de)f(16)f(bits)109
+2482 y(e)i(um)f(tempo)g(de)h(escrita)g(de)g(650ns.)p
+Black 816 2610 2366 4 v 816 2730 4 121 v 952 2694 a Fd(Rede)p
+1301 2730 V 187 w(T)-9 b(amanho)25 b(Quadr)n(o)p 2159
+2730 V 103 w(T)-9 b(empo)26 b(do)p 2682 2730 V 161 w(Buffer)p
+3178 2730 V 816 2851 V 869 2815 a(\(Mbits/s\))p 1301
+2851 V 331 w(\(Bytes\))p 2159 2851 V 381 w(teste)f(\(s\))p
+2682 2851 V 151 w(\(MBytes\))p 3178 2851 V 816 2854 2366
+4 v 816 2974 4 121 v 985 2938 a Fe(100)p 1301 2974 V
+547 w(64)p 2159 2974 V 590 w(60)p 2682 2974 V 323 w(351,10)p
+3178 2974 V 816 2978 2366 4 v 816 3098 4 121 v 985 3062
+a(100)p 1301 3098 V 497 w(1518)p 2159 3098 V 540 w(60)p
+2682 3098 V 323 w(553,68)p 3178 3098 V 816 3101 2366
+4 v Black 1413 3260 a(T)-8 b(abela)25 b(1:)30 b(T)-8
+b(amanho)24 b(do)h(Buf)n(fer)p Black Black 345 3464 a(A)k(Figura)g(1)g
+(mostra)f(o)h(diagrama)g(de)g(blocos)f(do)h(m\363dulo)f(respons\341v)o
+(el)f(pela)j(gera\347\343o)f(dos)g(per\002s)109 3584
+y(de)j(rede.)54 b(O)32 b(m\363dulo)f(\351)h(composto)f(de)h(uma)g
+(mem\363ria)g(que)g(armazena)h(as)f(informa\347\365es)g(referentes)h
+(ao)109 3704 y(modelo,)22 b(esta)i(mem\363ria)f(tem)g(um)h(tamanho)e
+(reduzido)i(e)g(somente)f(serv)o(e)g(para)h(armazenar)h(o)f(modelo,)f
+(ou)109 3825 y(parte)32 b(dele.)52 b(As)32 b(informa\347\365es)g
+(s\343o)g(escritas)g(nesta)f(mem\363ria)h(a)g(partir)g(de)g(uma)g
+(interf)o(ace)g(com)g(o)g(meio)109 3945 y(e)o(xterno,)c(esta)g(interf)o
+(ace)h(pode)f(estar)g(ligada)g(a)g(um)g(softw)o(are,)h(rodando)f(em)g
+(um)f(processador)h(ligado)f(ao)109 4066 y(FPGA)k(\()p
+Fb(F)l(ield)f(Pr)l(o)o(gr)o(ammable)e(Gate)i(Arr)o(ay)p
+Fe(\),)i(que)e(ser\341)h(a)g(plataforma)g(usada)f(no)h(trabalho,)g(ou)g
+(a)g(uma)109 4186 y(mem\363ria)24 b(e)o(xterna,)g(que)h(pode)g(ser)g
+(bem)f(maior)-5 b(.)p Black 1878 4551 a @beginspecial
+0 @llx 0 @lly 72 @urx 72 @ury 288 @rwi @setspecial
+%%BeginDocument: figures/figura1.pdf
+%PDF-1.4
+%Ã¤Ã¼Ã¶ÃŸ
+2 0 obj
+<</Length 3 0 R/Filter/FlateDecode>>
+stream
+xœİXMoG½ï¯˜s€l‡ó¹,;.[k==©Mƒ@.Ğ\ò÷Kòqv×+YÉY1"Z~ÍìãüHîûğŸóÎ³T['[›ûö·ûãûwğcnüŸOÜ·š*›ÆZÇà^ªy¬¦QIcr±d1…œÓ˜İÑ´”Y9õGI<Ô;qĞ°*‡RÄ“+“#”ÒHr‰#D
+xìßk®S×´
+8£:‰	éøj
+'÷eøünğ²î÷_u3¾óÿ¼Ü¯7¹Ú§á7¼rşãzx
+&şxşËıòH\ {şüiçiÿv>ìß—*§ıŸÏ‡ÏÄ!¶@Œ
+şÌÅuƒFšD±¬^X#©@µè£T™ƒlä”ÆÂ+ƒ–3?8™’*?1ï&ØDØ¦û'ï¦;§6)€áª¢†<š‚l§®¡8£>DUùøj×‘r«+>GK$‰NJ¸ä=1PŠ¯~Ú³Ğü?¬ğÒƒgL.¤È™¸«Ê$}Á+©Ú0ª¥IÑº¶Üî†˜ƒTb‡nøt
+›¹ÉF…øóeÈ¼É´<‘¶e’·™;ƒwÅ4îe‰%õo.–4¬ŠÒÓ²;ªp“Ö ª5à±·½æZH@ªWÔ†ˆ¯Öp—·¸ÚsLŠÓªÒå“ ­Â`<&ïıƒBó§h,%Ğ+š:Å¨”/Zbôn&’ÆƒÌØ“¦†˜n… M+?áØŸ}42dÙ@2ù$Ô­¢o“õóhrº¦ÕÀUJÜŞØëµ\‡Ì-¯ú:©Éá½ p¾VıÃænŸwäLwüÕÁßË³‡ŸF’±Ö†)æŞ¶W!t‰„ûÒÂ¡dÆ|•÷Ô‡©+Ü´)ôÃ!g'Ô¢†<š‚l§®qp5ŠĞ˜½
+×kø‚noµÃQ²£$ØzÒ¹‰ğb¨a
+"Ñ=ãjÍ&&rÅ5Æô&fRße"Àwélµ¶ô
+ÍK˜:@å¦QÔcm¹}6+ÌQòl÷´JUıêhI¥‘ó˜*;œj’5ÿæqeÏ´ó_º–0¯’á¢Dj–‹œ0«4-áDY[n“áÅÏQª$í–«d%4Y‹ÕT˜Áò<’”°–»m*{f»c³Ú|²¹WUÒh&İšd Õ(ó¾£¢Zä4ë×•›—²pII°Ö€KˆlO­İ¤6±VGZÑ¾×<§YÓüu®	d×µ_'†[Zå9!T¥ jş¬yå
+ÅDP¨^hYYYÔªÎASQXCiv£3œé 5û®ÀìÖ€V#ÎÏÛÀ`l²j*zˆBÎ8¸×vÛDRÁA¶Û­Û”ü|sƒQZuNöe‘WvgMŠg}d…6wÎë-òNB‘
+ÛĞ¥R­|–E~‹t“Ör!8÷AœÃL¦íCØa˜lz1–!Á˜ıÂ[IP)sTÚb£noLÅêFä»=R›Î§Èá
+óS,ú[¸b˜y_ªe8ƒİeŞ_bäÙîê•ŠÚ2/Ò´Lb¸¾áÊi²]}¡ÙÕŠŞ_Í}Tûi²\<ì´¥v“P3ÜD°K¯ˆıÊ«²f7'­Ê¢Y[/µÿà§ ›Yã9qÉe>\¼ÒÓ½"ÿp†AítÁãzœ™Ãâ÷j“vqhBÚÔ’r9´àqÊ¯-Ï.ù¼º%†R•Ùñ*Üÿ½eê
+endstream
+endobj
+
+3 0 obj
+1270
+endobj
+
+5 0 obj
+<</Length 6 0 R/Filter/FlateDecode/Length1 15752>>
+stream
+xœå{{\TG–pª{ûq›¦häa_lŞİt#
+(`Ã•GÛŒID„ñB‹A“c“`2®IÆÌèÎ˜LÌËÖ8>&ÉÈdİÌL&™8™L¾Ífvug¿/3ãèfM¾Í`Oİn|ä1¿o÷÷ı·Mß{O:uNÕ©S§Î©Û6H!Œ(k;ú‡ïZGy‹ˆí
+Êÿ<ÿÅ4„ÏBÍİı=k³=ş™v…­Ø³f¸{á{'‘şƒÌ¨•.Ó;of2[@Å+Ñ7yŸËó°œ¾rmğî†¨{îÅr;–GÖôuv¼4êÜ…eäO*×vÜİÿ=]#¤ ËòºµGÓ·Ç°\Mˆî¶ş¾Áà^²g’Òİ¼¾ Ğ_¼ügåXaÿ~ƒ8À?ş‰BPÃË”	¢F«3D£Mæ˜Ø8K¼5aFRrJêLùŸğßß"÷Š[I<Vï·|„Rb!	™ú/İ¸OŞùÿ·ºğãy&n©ÚA¾‰÷nÁ&GW¡}äá¿Âöy.í!O’¿–n¹ùDù7>íˆ&O ä“äh(³ÀƒRWGj?$?ÿjVğ/ğsòy)#'ğ¾-o3ı˜<F“uô±­ä>²Ç¸z	Z.´“ƒpYØğg9	¾/0%»ÉÓd®ÂëqëÔ¿ãç?ÀïD>{I/YS‹gá3ş`6ìûKä‡*nët¥ÖÏVÑã”N|’¼:àìçÃl¾RÓÜÔØ°dq}İ¢;n¿má7jı|5ÕU•ó•Šrï¼²Ò’¹sŠ‹fç»]yÎì¬ÌŒtû¬4[¢%ÆlŠ6$½N«F8kì¾v9”Ù2í~/Û;Ñq¢=$#Êw+MHnWÉä[)¤ìş¥¦T®S‚YGæå9å»z»Ú.Ÿ„–ú&„®¶7Ë¡K*|»
+™jÁˆ…´4l!×$®¬–CĞ.×„|C+GkÚ«‘ßƒTe¯
+HyNrD2 h@(”mï?Ùå 4»¦ô%:#b5]¡ºú¦šêä´´æ<gm(Ú^­V‘*•eHSÒª,å^Şu²K>â}è¤™¬hwDuÙ»:–5…X¶e5££†b¡{u(gÓ…Dy ä´W×„œëÂÅ×å,¼!Bb†Ù.~Bp8öKºÓÁh2ÌŸúP½££>»ìmí895²Â.›í£G¢¢FûkPÃ¤®	[œúÑ®äï¡æ¹}%”Fë[¼0WWSˆføä•ˆÁo…=mnrZLó4Mİ×UTªuš–Æ¾ë¤BV`!4Rß.ËdEòQ¢¸Í!ÚÎkÆ§kâyÍÈtÍõæívœÍ…KšFCBFm—½u¼«#4²íiŸ
+»9ıirš}46F.q7«´2öª¶«W‰™¨lus´ŞdÔ¬¢?
+?.%£€Ì˜X¹Äl8Ÿ{M{ä;´2ÈyÎßú†¦R€Ò™£š#ùnlÑÑSÔ[­N_ÈmïYì•×ç“w«¦wI“Ú$Ò,d©
+‘öÎH«»¦šK–kFÛ«Ã]à¼ìõM§ˆgêü‘B9ùe)$ÍÕœØZ…v•Y3ÚÔÕ²µ'wáJë–›’ÓBJ3Np³½)ĞÌ
+
+5”sÅ¥©C´ª¡iáûÂú–¦¹‘„+8;!£ælìMÉa6hr!]†Nn¢É¬	Íˆ}Ø+çá=¤ÍĞáeF…«Xnª•óä&H&ÓÔØP\¨Ğñò-LEnNUşin^D>Uşä´æ´ğ'ÏI±ZÆ:®TÿtË@O€8ŠlT×e"·y¹É°7ÛWÊ!¥®‰«GÕrDªÎ#sÕpKé&e¡šHVO¸2C>GòÍÊ
+-PË×‹ş/T×NWË£:ûÂ%£œ¹=Â`ÏkC„›°27&Y]ı|=Û}¸ˆqE«ëyôˆ¢ğµ¼’/ÛQ{m×¨}IÓ<•=È½É›¸¬X²6Tæ9Ñ™U±Ãú#
+ìXÒÒtÊŒ¡Ô†¦£hU{eó‘t¬k:%¢¨XÊ±É2/pN‹± Sé“O)Ë©µ‚ŠPË'¨8İ4HçIÆ™§qqB§¨8şÁYJ\‰:Fÿ]#wñù¹§yåh{3·qbEàB`/GíØË ÕD…${ 2d°Wr|ÇW„ñ×¢e€òœ›FÍ5öOóø&IÉÛ¸Ë`LÄˆ–d)	”hÌYÃ4"af&3ÆD&`eÅÛî·Áİú6~gçÇ¥Å¤ÅÅ¤Å¼-®í»½-nıË±èZ‚ğ‘`\@„G‘§ô"tjü¸1ÑO©Fwrj\)ÕFùu:ˆ-\’¢aZM¾„¶Ë &¨€>Øûá0¼ç@§%a¦@$mZ&Æ’ŠŠK±%nÇòÖõ— Õ½¼õRAŒÇíà¨Ùù“ŸcÇ;ô°ØÏÿ|š}$ü~âêw'ş^Üú“÷éØ§h’@6(KQøVì3?o¦Kb¹8Î¨ø¨Œ(FZÓŒeà×¢m!:³NÑ1¦Ífq[YÚ,[,¢ÉòeÊÂ´Eã·X´qmz¦½µ{nì\ëú$óo“.ÍÎ'­ü–hjW»X0“j3N+(şà>><¹â4­¿÷G÷”<8ù Üÿô>öÁ²ıª'>·zû¾Ó±}×Ä{©ºí™ú“x@ÜKòÈ)å¾íXå€ÊŒÅTLŒOlLdK`iˆ±ñ±±lSÔhmê¢«¬¢P›ÑœA‹Ra³q—‘*HRú2›’–F¶ØÆlÔæ‘İíî7‹¿ë0FŸT&`B‰imWfÁ¬YbR[Nœ¹MÌ7(ºÛpŞ@
+Q wëzó¥ŠK1%8fwkë¥Ö$ó[­XN2_*p·†Ç­7>q…±ÅéÔB‚ÖÅì³¢i¼e&õ”Ó9EiEi1ÑˆKÏ¤=ÍG@óâ}gvwÙ'Õ®ÜÙ4òÚ=ŞÊû~²eÉCë—¦NŞEİ[¾ûêê£“Ÿi¦?}¤W®¥›o/.lœ—V·çì–-¿~²1%oNÊäÉ¤ü;+3×şD…mó2q1Ú‚–X Vùe7¢Û)ëŠÛÇzavëµ[vZØ æ~
+
+hàñ!‘®a†©´„4c$Ê6°-fKY7c-øhÔÂ-ÄQ¯ÉĞáBÒÀEÍ§š$æŠ¥"Ó‹ğ‘ø™H5¢Ñ($‘\RJ˜ÀGä3ì—Y+kóµLÖ‚Vkg¬ˆ1
+ƒ‹ìSFÙaá´@…:kÈJó­íÖİÖqë«è¶Ğ6K\ÜŒ|©¢TxZKÜK¨óõîVOëúõ1|–8[âu{8 Â%øßú…OKcvğèÁÅ²¢™–¥	c;ñÍï½A+> Å/™S­& Ñ	©¦cÔOMvñå/ĞìÅUy¢èª^œ=9;ì4uì¤N%ê‰xÜQæØDÔÉ©+/cüF|*ÉˆÈÆ›‘+§eà-6o¸¬fœ:ÿ2bÔ'"ùS™Â
+cTzz²sYn:nùô=»0ù qírAĞe.ø…¹Àà‚wwA¡dX\@\pÕg]pÆ!NºÍuĞÅÚ]ĞàE¥3»@pÁãWxó3®.v€“íqÑ:T» ŸW§»(r9ÏIŞsÑİ.Øæ‚~ŞºÚÕåbaIa1ag\B;¯npÑ0ûÎ1Ì_¬s¬v1‹+Ìa›‹ó½êÒñ–W]l§à­ƒ.a²ä‚:8Ş"ÌEÄArrúŠxcºw ĞE¯¹à`x#. Š«ÎÕïb\	²‹ÎL^FR”ªMÑÄÇs¯lEİÇ§²…é@Œé,­(ÁÓZáñ8b< zZ´‹6¼ÖóÏ ~–óBäÙ:]1]9pSÅõÊåaÀü[(¸6ÅÙùğ§•_­i1…ÅsŠçh´Ñ ;·ÀÌ,kÂLˆG¿é™,¡œÍOŒ¸wdm2ÚL“{¶OiŒ&“6Æˆ}îlÔZbMŒ™ã-:èÿ„½àYåôä{
+YŸ+lÜ”çN(ÂÏİ“õyƒ¸õs·¥¢²ÌlWYna¿úË–°¸sêOB¢pI!dµâj±¯²Ó–™«fÒF`TW«×'/Pl©°;R³F2È[ÄäggÍbY\¥q3í¸Ñ‰¤.#C”ë¬f±.ÚJ*.©{w–àXÏ7	Ü"pŸ@?‰ûD+á»w…Ås¸¤1…å”;ÊTÈr÷”Z°Økê6<<ã»1Şî'×\¹vÛ¶P×}î™v?˜×ÙP*Àÿmë)YîÏË»«Ö
+3!é‰_o+kÚ÷î¦ÄÑç¿“ú-+Ô}d®O;¯Œ¾~ŠäâÓü²ºÆ˜Uæ#Äèò}àşÌM»!ÇİìŞéf7<ã>î~ß}Ñ-ìtÃšİ q[İ>7ÓºgDùŞ0‚Æh5/?5Š:ã5/üÜû÷#/{ÅOza—z½Ã^z—j½àğ–yég^ø£>ğÂ/¼ğÚ
+"@’o‰—&{Aï…7ÿè½æ¥½ŞŞ'½§¼?÷ŠX}û
+Š0.Š^t¯PÂBï]ŞÕ^Áæ‹ø£—ööR¬ßâ½¥Úà…oOq6Êœó²9ÌÙìóÒ-¼3«½t‘Ê¼®’¢´ëDû8¯1/íòÂB/Tp¶`òÚ¼4L´Ù»Ëû¼÷¯Ğ§¶‹ZõŠ—w†©2@• È‡r7ºÌÇñŞWèòîáCä]e8„«¼ÁóŞ½­öB¡ÚÈä…’WyÍËx!È›„ÇÆÂâ¸,¬;È‰9z³W@Fg½@Û½»½¼ã^¥ç{Áí¢ÄyA7«¨.Û<CSg3Ç™ÜF»JÆ7ø…ğÊnSWó­kıVğ%×pÃ9|¡ºí–ê›=ÇÆnW¸—_Çª	·/âp ×pQ5@7`–g&‹÷”3O5A}Ìœ®	1bqß6§dÙ|ûËè2à9 ¸Á&Î]Ø¡lKa‰óêº”ÅoK?:ME_Z´j~r^ã½õ³%³VåkEgIV¥®XÍïÎevM¸Ãt†o.™xxjŠ,E’*^ˆÍÄH˜Äh‰=¸öâ0~²ÇdÒZ{¦d€£ˆàWõ9*=®Éh2‹•²ay§Lƒ)ÛRèu»•ÇîŒ¥{£‰¢B”%ŠôÉzj“EL8,”jÉe·	Lé#ùéÎĞ¹t˜±À¦¥N2Ï¬caÄ£ÓVN[yxzCß`F¹h‘9¢FÔ	Î„Ô¿üyıÑÍóá÷ß<±aîkY×T×ôİ‘ã¼½·¼¦ÿ\:sòÂäªúõÍ÷=ôîCß<¸"+§óàæo>½";kÅ3Üçø…#pE¼@D2GÉğ	°‰R:Â€)cX«è~BÿfÄDÜ¤‚l!—‘¸±‡àv´&½İÊ•¸¢8O<ø?xgò¸pÄ¶ÔÉ?„}İz³‘r%ÛŸOããÓ¢l¾q~n&ùä<¹BD™‘gõÏˆŠ5kMÜ¢+*<o; lW<@šïù¢ñÄ‡½n|Ì#a;a„8Gi]‰5Û›?³üÎ9I¬|Ö‚ÊÒ„„²òKù]e©Zö´(ÎíÜY?ñŸÓ8p¯ø–š_
+*F¦EÏ*˜…|é>K¹ñ‰~AĞé§ôp^çôÒëé~=ôëGôÔ¦¢‡+j…“ÇÌÊğ/ÒâE“O–à qF+ u½ãÆêŠ	§!b®Vä‰g1˜Çå^øËy¡ôÚ7ö¸AÔ[™OşV)F÷J‡£vFQšs!‰I"u$bÈ%¦Ä§ĞŒŒ™>Å¥ï›»eîØ\6·jÄ²@
+,ñ)şøøŠ6œÇüªñ*z 
+ªx…Œö—VŸm-©×ë“<mp[Æ,Ôb1Õ%™]:Âmı	Ly‡¹]:x¼ŠÇ%n›|_ÄiÇØ wFqVfn‡P1Lm–:Iñ1+ß1ã£o–=še¡¹zAÍâ-Vøî÷ÖßÿìÿRzgYaCy¦æUinÏ¾uoı2·Ì43zVU¦§Ö•È4©5Ë6Ø—nmÌıûÊ-Em–ö®ŞyÇL*”U-/M6eUyb”Õw8^92éª«X¿N—<§¾¸°¡L~°bE°¨Y€˜‚–Ú¦öÈ:f—qÎmÄC6+w6Î
+Ì¢-«
+h	Ô-–|Õ3„aa§ h´Vív»Vˆó)¹d,ör,-‘Ø4 é/Ú]DmE0UãEç‹èŒøXbp×éÌ$#¼”¹;æ“şõ6­³é„³5ƒk„ÆàjF7ˆáma®æ»‹AdYOk“<½éíŸÀ#›P€cÜà_ ŒÑ‰L)o¯Y°¶63ó«}•íŠí¥•-`DZÜ²Br¸sõğıkqYşy½”‘_”ıızò]=ÏÜ=¸…ÃÕııÿ¾M=_˜ïD‘¤KñJ„Í‰ğB$'8Ê6'‡Ìlv˜ËÌ›ÍÂf<É`˜iQÜ˜ÿ$(É`¹q"×¦e–6MldDËÕ”ú·ëù€nŒÇBqzù‚`UÇÃár*V¼öèÄ¿Á»ß‡¸7úÆïùåæÉƒÒ¾×Fï ï„&ÿı‡­âÖúC“ŸûÅ}ŞkGü¼Ç}3úö&ÎOÙ Ô›a8:3 “ì³Ùt¾èô9åÆAœ½.É&o‘Çäs² ËIfY×¯ÑÕÇhWgÖµ«ÅqDh1şÅ¨×–­$¼ĞùiY£Ï½îõ‰ˆŒŒé–¸§©°\ˆœ¨â’•ŞÛÛ·šëçõìéØr´¯ }~SÏ@é]ô(ÆSÑ½·÷(ÉtVëSëËW®‰ªºgyÉÒÇß¾{íîmô$Ü9Tİ²ÊÓóTø|*'lø&IF¯g`Rœä‘ª$Á(ñğw•.ÊŸd2C´y†|"¡Km©îÔE©m©[RÇR÷§jM©N=z.õrª¶¬
+!®c©ÊÒ.ª’åôË©ù©í©ì°JÄ”T0!WE«›¡1ß<|	ó£‘õÇz|x”ƒ8æxxd³¼0n±yŠÔDàú†”
+¸
+ö{â	kYw½\““›íI5üšø¼–¸SY`¡C£ÙÉDkÎ¼¬ûq÷™>ÿ²’4â"û”5ûŸO¤ß’á¾•òÈ£›ÒGÓ¿ÎDC¼!ÃÀ4ÔJ3){>öÇÂêØÍ±»bYlŠ±%AÁl=!!m×6Ë=‹³òGRrn˜olvÛ–HIÉIF;Î™¶côñë/•„³ÉHÖÃ÷)Ì…püÜÈ´aG‡mƒ6µ3DËÊiÜ
+;şĞğÈ«+'ÎP²áäHUZU ªñş&×äŸŸÚ3yæ7ırıìe[ë&Ÿ‚ÁÚÍÍğğêÇÛœâÖ¬†­-e+½&©´e#­X1Y™æ]:ñãªåóR&…Äy]hàZø£PŠ™ß°R³—ARZnZi›íSÜ†1=m€1Ã~Ã”²FÀw.ır:%éæôüô+é‚.=ÎCYW²èTôgšãü<¢¶ÆÅG?¦áÁ´ƒ§Ñj¢êd é’Gõß3íŸoòÙöÈâˆÒ„ÂÆ
+¥§6ûØ 6©|ñ*_Ë}
+YBéÄâé€•~şâ­«sÙî ı_­è“ÿCÜ‹ÑÖï”u{Ë¡º)ƒíÅ°m6<
+‡ÒÀ–œæHÛ—&4§J¥»b`—öRP½ò¶Rh/†ŞxŠÜ–n!ôóGô-:Å‡Éoa±™mŠimqf½îÛ÷D+‹ƒB~úãFÔÆÂ/d¥…W(ºÛúr¡9æ‚&rÓ…è¶v=,ÖC5z1Txøé¢zoEÛA»Aí©Üõ˜!’I«¦tó‘cÄ¬äô¬93Ùô¶—å‹"	öÍ'‘	3Eá?jv¸wò³ÉÌ>]ÚùXwã#İ%ßm/Û¸¶İ—]¿ûÌÀı?¹=áÕè¢¥›—¬x Ş^±æ‘ºù[‡znsÀÍ{×zO¾”1§e~zê¼¶Êš¥s3­F›£´~µ¯klYnÎâáº4O]qŠ}^½»¢¾8=Ö„•
+„`Îğ ú&·š3$bÎ !R…š1€“	‚–Ğë×ñ6„vÊ`§’È|I'3
+A,ˆfQÙïEnzsşå‚ÿŠD‰ãâY‘m÷ˆE¦ˆpƒô=ñ‚xUd»EŠÛDÚ.‚ÚÖú“3şó"œßiH‹˜ì¯:qü”Ÿˆp˜Ã/?ÿ’Ÿ?ÿíü#‘–™{ŸòŸ¡K¢¬câ¥€ ZpWÇG\Å
+jëá{ÔÖ/¯[¯>•ÄÎn.”Ó¼'²üp³ôˆØ*Ÿß B¹J¨Ÿ[æÿ…ø¡HÕRn^¾?Ytˆ”7» ²Õâf‘â )`¾ÈN‹ïˆT•¹Ñhö›D›HµN0µåë‘§£ô¾h:üLŸrpkrÜ”Í"®•G°h†<…ğÄ¼~l:ÆVÏAQöVb =Jª¡EÑ‘ıä09GbQŒ Çgç‚‘÷(#:Æ¯e-<CP¦h[BÚóZjÒ‚N«Õß8âåòÔ7
+ÜŸ:Ôw
+­jğ‡î‘–áİ#tLhNŸ¦9M·N¼@Ô. yØ¯ì—.ÁhJQZĞ&F™ü1"0Ì\ÓÿG™B„(àî«‹Ööêé¨FgÕë|:!Z§–Lº”î¥lˆ^¤´„ÖRª¡e=)’~.±¥è¥‰Îš¥Òg’ ‘àÍÏ$¸Èñ3¤SH#¼!A³4Œô¬X‚¤>%}$		DÂ7¤÷%zT‚ƒì•à>	‚,•º%Z)AºT(ÑX		®ª,ÏHïIôé¸D“`›C¬ A5ÚN—Àª,œ•ÎKôŒ¤D÷HĞ/A—Š‰³e˜¦÷^®Jô¬¤GéÇ¤3‘vK;P'µK´Z™³³H¥ŸHqy]RPÚ#”Ä|IQå^‹Ìv‡¤KÕRÒl“´%çyObSÖÏ+¹pÎ@T…KpL‚H+^±Mß“.HôU#Ø‚æó¾˜$·D	+cÙf†é©N`À_EybKZc<>µıÂ±ícnÉm7Ö|é¸&Œ	êAÌú‰’_â³À‰æÛ/b¶éh[®:eµğ7¦ÿñÄïŞ…áùw©â$õ³’‰º?¼6lSWh®èÄ˜³¤ìhèŞÍ²Ğk6î4²]2¦¢k„{„§„KQş>ë+µF­ÌìÓëÆ¦˜"
+Zq$Lšº¨
+	$½).’¼İª¾á»¬Çs)!üNÊÑªî½­ëÕ,©ˆYs<ñx{$¤¹9sÿáŞmEwÿìgŠ¤Ù©:ƒñúîı|ÿDã::†©	şë2ôÁ¹ìˆ’şû(ÍùFİ”3šóíVd®1Ó
+æÌcfÅ©¾TZœ
+©|ç³bU’R›BK0Lâ/?Š‰s^¥7`Éè3Rõ‰KjÒfE×bmÆ”<ÚhMMÑ±gÛ¡ÉV­İ®µ2SN®9—û‘Zw¿6
+s!3>Ë…7r/æÒƒ¹°7†s¡8×—ÛËfäÂÕ\8Î«¶åîÉ¥İ¹C¹´DmbQw`]®ÙÄ{1¥75›zMÃ&A2½á¼èüÔÉ:a¯†Ğí„';}N:Ã	WpÑ	gœpÜ	O:a»‚*I‰,Ît'Õ8Ñğ¦Çœ‘ĞiªwÎpRlyÊ	KİÎíN†-¼`“Nxšë÷œ°Ge<à„.N
+…Îj'5Mûä§Nxİù®“sÂ3NØæ„!ŞÃ.'­ä¤`uf:©à„ß9?vÒ÷œğ†p,©”İÎ!'M:§IùMdTGUbŞ¿½NVílpÒâi¹½ŸrğŞôàXĞ¹Wûp8,“Xô*ÂE'İã<è¤8†^u Õ¼¶ØI¯óä@wªC„vŞ‡tÅætq¾ç¼êFTµ.tB~D­×ÔfTÕlk¤ËÉ’pEUŞ/¸ª¶9÷89…
+'Pâ4;©NËÓlÜp*µP¨…Y¸¤ä0“ÉãÏC›RŸV «EÇ«/„­şàA×ò°c¹õÈwyÄİ|ÙÇÜt¦û5æ–Sß[ù~éURØÿÌõ¸—™Ü1×›Pâu»İëb<ğ—{¦õğ_+ÿò¿õivæ‚¬Ì,õmå7¬	ÅsÊaNÜ­aï¯^ÔÅè$½^ÒÅéüÕÑÚh-f¸zYsæ'¯iÍëtZ“ötˆş(¹.ÓéÎsf.¶M|£ñ´„*9#+3İ¦ÄÓÿ=1#©2u–KUIô÷ƒ	˜ş}ˆ¾¯ø÷PØNáaİwttX÷iÓĞ!
+<L¾Cè09ÒF‰¦H°I€8X"Ü
+;à	´j×2N­ èõf‘/Ü2Q/ê1˜s%*,(ÁpÑğ©1À^Ã3†ã¶Í C¦Ágè6l7pÜH¡×Ğü0Ñæ7PÆ9ôô¬„Q‰¡cQ‚ç>ò¡ËKPm„b#¤ÁjÁüå}×ãF8j„mÆ=ÆƒFöuÄ?ıÔŒğ¾Îá¸òWH>ãRãvã^ã3Æ7Œï/õ{ j„ôÊ‰qÿ6Î¨Û8ddÈ,ÓXl¤Èèqpä3ÆãHÍ;¡¿ÈÅÃÚ`ì2²›Yî*“u…_beª½{nô&Üİ“ÆŒô+Çò¾*•áxo|FaN·Úõ}˜Úÿbo¥¿Ä³Œ Äh6Ò«\O< dÇŒ0bÜm<`dA#´¡‡PhÙjÓY±‰şF\¾Ø®ÎØoäÔ­$Z`T§1Š«ÔSÁÍ7_¾@7­´6\·nÿË¿´¨"(GëW½‰¹NåÀe7€‹/ ŒÉ˜Û=w.J.ˆ¤¯m7·LÓƒ]¯Æz`i“ÿ4ùáë°uòÑŸB4Dı|òQØ¯NVS'¼¸:ñ.™~GÉş,ÜyøÚSdz«t­ÁŸáSêì'S¸af5×>Ÿ%Œg)F"¹¶Ìsí(Z WV>ª÷
+y¡~Ÿ¥¦ßáÓ0fŞá3	t_ÿ:‰¿Gb%-÷şk¯ŠÂ/‰Âc{
+o÷¨¿»Ú¤øX‹‰ğ§€×Ldr–°vÒÃ#f¢:"¢–æaÎ1$2í(bZ¯ˆ:YÜ57zy®7œHa"¤¦c˜á ãCğ÷ëëÔ('öz²òÚişû
+µOxIŞ{¶,»·Í4ïbÿ^ıÌĞ=Âôoª§&¦ş¤±‹ÿ1;ş18!ÚòÉ;HÕŸ‡á—İ2ÆJoÿJ—’g5%¤Ÿ‚æ9ò¬0HîÄç|.å}øñÚ?%;yİ4^ü)Òr'-!©œâ@˜ ÜŠÏñzÓ`9a›øÓ©	¤O@ºXF]“\$ÿ ›¨“=Ä>_ßĞkVhBšIísºBİA½ ß¤¿*J“Ò¤ág†
+E}]}Àüzì±¯Æi"£’I%ÎX^'ÇMZĞB¿«±ÌkS`éõ±+×õ ÄD”L‰–,ŠÀŒxÈ4½€{ÀÎ,’(r k06~!kÉ&ÌøÃ°X`^Ö“h¨‹ÀìÃòëÿıá‚MØH¶À³8š8hï± ÇÒ]Ì¤ïF`J¢é•ÌH7ŒÀq±®,’DöXÖ'{.kÉUö~Ö‘láÍ¬')ÂÇØ@æŠÑ8Š,}ØH&ÅïEàh²Ts º·§7Ø»)Ğ%wu;äCrA~şyş`g`]W`@®êèïèöö­sÉó×¬‘z{VåÀ```(Ğåº­wE \//éX7¸8Ğ³aMÇ€¯o]Ğ×7Ğ\ùr©ü*9B†5³òŠóPæÜ¯!Yä¸Ù®üÂ$œ"/BqSÃŞA¹CttÖv¬–ûº‘K—ìÇ`N®]×éÂ^÷ôˆì]'7º–¸äº``]PîX×%7\o¸¨»»·3 ";Á$î®Du¬Ú0Ğ;ØÕÛÉ¥
+º¾JKK‚¡€|{G0ì[·2ì/u»7nÜèêˆw"­«³o­û¯Õ‡û]ÁŞu8|×ÊàÚ5ƒ>àJãM#îFEËƒ}İÁ>şÁ
++V:ƒr°iòÇ:lÚÑ3¬å#İ öxãÊŞÎ•òpß¹£³3ĞDpò¯ãìúk]s½‘ÚSRMzI^A¼6‘ éÂUİE:°ÜĞ!¼
+H>şÍAh>$H³)d 1U¤Ÿıê½CåÑ‡µ.•v
+şÉˆçüWbİ Z
+à“·Re¹ÈmX¿BÅÜh/“%XZ‡”‹±¦‡l@NHáSkƒês ñµw.ìLJñúë¼ä/p·™òH1^áqÎı/rYªR^§›­ö§ğ+¹LóÈû¯–Ø«Jã³Tk¸Î×ªô«×Gº#}á3æG$N„j±m§:ªÎ%¨òSöª¼‘b‰JU§Ê¨z•Õşqª†¯¸%vcûNUïÓ”*on-aÎ}¯ŒXÇ*á€Úƒ.µİôØQòÿ«--Q{7¤Ê¼]ÅUâu+ÕR?Î£ÿ6ª.¤¹•sg„¯K…Ö"å·]c9 Öªv½.2û.•çZœÏFÕ¾§ç‡ë"<_=Çİ‹–Õu#´QÕwàúü¢W &ªş8Ç¾_N³&2ë"R;°O¼5Ÿ·é9İp“7ªıéÄ»ŒcéÃ:Ş¦SåÑ¯j¶ë&îÿÕ>»şÛš]ó’nè”…ƒˆÉGÉ^òŸ#zåÇ å'hê}?Ê#0>‡'€L€´èÈ×à“ºlÛÇ¾lÛ¿ùrmW|[Ûå-—©éò¢Ëm—Ç.¾,~a¦í_ç³™~Êï|VÛ¿œ÷ÙŞ9îüåóL9ï)ö÷%ÚşÉ{®ñŸ½¬ñ°Æß²)›é7¶ßPõ¦¼™˜ì{çuxm|í'u™¶Wœm›:u'ûOœd<Ÿ:[à³¨8±èDß‰-'öŸ8|BÛôÀÑĞQf:
+»¡‚é‡ 3½\ñòå—ÙHhwˆ†Bã¡³!æ>\q˜x1ô"ñì‹ÔıBÅtÿó0şÜÙçè¢Cc‡¨ûPß¡Ó‡¦	OíK·Õíƒ¾½pz/ìõ¥ÚşfO‚mË±=S{Xş£Ê£täQè£»Ç`|ìì]ôPÛC}±í¾)Ûş`Ûı³mÁÁ
+Û  oİ<Û:_‘-	gxµÖ¨Á1·c]^Ë|³mwµøm-øŒ+ˆmQ'Bkìc`bŒ^®Ÿª§J}Ñ\ŸRŸ‘í{Gi¨ƒZŸló#ÏxöÁ9ßeñµ ¾1LæS#Òl6S…©Í´Å$˜LnÓ"SŸiÌtÎ4eÒV î²‰õ±‚'a÷‘†%ÇÂ“Ú©ÅCÚº»B°#”±„ß•ú–fGˆ4¶ÜÕtà‘æ~˜T¦.,i
+µ§6/u! p`sê+©l7¨?Á…0@‚Çà ‡xÎ@Â?ÏÇ V#Ù`pÁ
+dĞ1„ÁAÜì‚ˆ„årô `¼aöÈ/Gx†Y"ı ¶L\vıŸtùµ
+endstream
+endobj
+
+6 0 obj
+10325
+endobj
+
+7 0 obj
+<</Type/FontDescriptor/FontName/BAAAAA+LiberationSans-Regular
+/Flags 4
+/FontBBox[-203 -303 1049 910]/ItalicAngle 0
+/Ascent 905
+/Descent -211
+/CapHeight 910
+/StemV 80
+/FontFile2 5 0 R>>
+endobj
+
+8 0 obj
+<</Length 349/Filter/FlateDecode>>
+stream
+xœ]’Ínƒ0€ï<Eİ¡‚P(EBH][$ûÑØ€&¦C!
+ôÀÛ/¶Ù&í úâØæÃIxªÏµéçğÕªYt½Ñ¦ñîˆ+ÜzÈXè^ÍëŠŞjhmúÚf™fjÓE„o~ošİ"6G=^á!_œ×››Ø|œ¿nîÖ~Á fQP–BCçû<µö¹ ¤ªm­ıv?/[_ò—ğ¾X1­%«¨QÃd[®57Š(*EQUe FÿÛ‹\ríÔgë|ªô©Q”ìKÏ1q!ï8!'Ì9e>#ï‰÷)rÆLñqµCÎ‰³ùÈ99ò#3õ<1'Ègæ
+ùÂß¢xÅqì)#ft–«?ö—ìŸ¡dÿÿE²JµìAOÉşÉ™ıSt“ìŸáwåêsìŸQşêAfÿ$§¯“ÅÑãİø9R¡îÎùã¤Dçˆ'Øø½cv´XEÏ7Şñ¬Í
+endstream
+endobj
+
+9 0 obj
+<</Type/Font/Subtype/TrueType/BaseFont/BAAAAA+LiberationSans-Regular
+/FirstChar 0
+/LastChar 28
+/Widths[750 610 666 777 666 833 556 833 556 333 222 556 556 556 722 500
+277 666 556 277 666 277 722 666 277 722 500 556 277 ]
+/FontDescriptor 7 0 R
+/ToUnicode 8 0 R
+>>
+endobj
+
+10 0 obj
+<</F1 9 0 R
+>>
+endobj
+
+11 0 obj
+<</Font 10 0 R
+/ProcSet[/PDF/Text]
+>>
+endobj
+
+1 0 obj
+<</Type/Page/Parent 4 0 R/Resources 11 0 R/MediaBox[0 0 794 397]/Group<</S/Transparency/CS/DeviceRGB/I true>>/Contents 2 0 R>>
+endobj
+
+12 0 obj
+<</Count 1/First 13 0 R/Last 13 0 R
+>>
+endobj
+
+13 0 obj
+<</Count 0/Title<FEFF0053006C00690064006500200031>
+/Dest[1 0 R/XYZ 0 397 0]/Parent 12 0 R>>
+endobj
+
+4 0 obj
+<</Type/Pages
+/Resources 11 0 R
+/MediaBox[ 0 0 595 842 ]
+/Kids[ 1 0 R ]
+/Count 1>>
+endobj
+
+14 0 obj
+<</Type/Catalog/Pages 4 0 R
+/OpenAction[1 0 R /XYZ null null 0]
+/Outlines 12 0 R
+>>
+endobj
+
+15 0 obj
+<</Author<FEFF0043007200690073007400690061006E006F002000420061007400740069007300740069>
+/Creator<FEFF0044007200610077>
+/Producer<FEFF00420072004F00660066006900630065002E006F0072006700200032002E0034>
+/CreationDate(D:20090324103416-03'00')>>
+endobj
+
+xref
+0 16
+0000000000 65535 f 
+0000012798 00000 n 
+0000000019 00000 n 
+0000001360 00000 n 
+0000013106 00000 n 
+0000001381 00000 n 
+0000011791 00000 n 
+0000011813 00000 n 
+0000012014 00000 n 
+0000012432 00000 n 
+0000012711 00000 n 
+0000012743 00000 n 
+0000012941 00000 n 
+0000012997 00000 n 
+0000013205 00000 n 
+0000013306 00000 n 
+trailer
+<</Size 16/Root 14 0 R
+/Info 15 0 R
+/ID [ <30EA5CAC2F1BBB99E0E39A0476FA448B>
+<30EA5CAC2F1BBB99E0E39A0476FA448B> ]
+/DocChecksum /75008EA2B89CF0AB37B919725F4D0F38
+>>
+startxref
+13563
+%%EOF
+
+%%EndDocument
+ @endspecial Black 1395 4754 a(Figura)25 b(1:)30 b(Diagrama)25
+b(de)g(Blocos)p Black Black 345 4978 a(Ap\363s)36 b(serem)h(escrito)f
+(os)h(dados)f(na)h(mem\363ria,)i(um)d(decodi\002cador)h(entra)g(em)g
+(a\347\343o,)j(ele)d(tem)f(o)109 5099 y(objeti)n(v)n(o)25
+b(de)j(reconstruir)f(os)g(dados)g(de)g(acordo)g(com)g(a)h
+(heur\355stica)f(usada)g(na)h(cria\347\343o)g(dos)f(modelos.)37
+b(Os)109 5219 y(dados)24 b(decodi\002cados)g(s\343o)h(escritos)e(em)i
+(um)f(b)n(uf)n(fer)g(de)h(sa\355da,)f(que)h(tem)f(o)g(objeti)n(v)n(o)f
+(de)h(manter)h(os)f(dados)109 5339 y(e)h(endere\347os)g(de)g
+(mem\363ria,)f(caso)h(aja)g(algum)f(tipo)g(de)h(refer\352ncia)h(ou)e
+(parte)h(de)g(dados)g(na)g(mem\363ria.)345 5510 y(O)f(m\363dulo)e
+(ainda)i(compreende)g(um)f(gerador)i(de)f(quadros,)f(este)h(por)g(sua)g
+(v)o(ez)g(tem)f(a)h(\002nalidade)g(de)109 5630 y(criar)29
+b(os)f(quadros)g(de)g(acordo)h(com)f(as)g(informa\347\365es)g(mantidas)
+g(no)g(b)n(uf)n(fer)g(de)h(sa\355da,)g(ele)f(tamb\351m)g(f)o(az)h(a)109
+5750 y(interf)o(ace)c(do)g(m\363dulo)e(com)h(o)h(meio.)345
+5920 y(P)o(ara)20 b(o)f(m\363dulo)f(de)i(teste)f(ser\341)h(usado)f(uma)
+g(descri\347\343o)h(em)f(VHDL)g(\()p Fb(VHSIC)h(har)l(dwar)l(e)g
+(description)109 6041 y(langua)o(g)o(e)p Fe(\))27 b(para)j(poder)e(ser)
+h(usado)f(em)h(um)f(FPGA.)h(Este)g(FPGA)g(esta)g(ligada)e(ao)i(PHY)g
+(\(camada)g(f\355sica)p Black Black eop end
+%%Page: 6 8
+TeXDict begin 6 7 bop Black 1998 -30 a Fc(6)p Black 109
+235 a Fe(do)29 b(modelo)f(OSI\))i(que)g(\351)g(o)f(respons\341v)o(el)f
+(pela)i(con)l(v)o(ers\343o)f(dos)f(dados)h(em)h(sinais)e(el\351tricos.)
+44 b(O)30 b(m\363dulo)109 355 y(de)h(transmiss\343o)e(esta)i(ligado)f
+(em)g(um)h(barramento)f(de)i Fa(16)p Fe(bits,)e(e)i(por)f(meio)f(deste)
+h(que)f(s\343o)h(escritos)g(os)109 476 y(dados)24 b(na)h(mem\363ria)f
+(do)h(m\363dulo.)p Black Black eop end
+%%Page: 7 9
+TeXDict begin 7 8 bop Black 1998 -30 a Fc(7)p Black Black
+Black 1661 677 a Fd(CR)m(ONOGRAMA)p Black 246 1075 a
+Fe(I.)p Black 49 w(Elabora\347\343o)25 b(da)g(proposta)f(de)g(TC)p
+Black 213 1278 a(II.)p Black 49 w(Estudo)f(do)i(modelo)p
+Black 179 1482 a(III.)p Black 50 w(Estudo)e(de)i(m\351todos)f
+(estat\355sticos)p Black 187 1685 a(IV)-13 b(.)p Black
+49 w(Estudo)23 b(de)i(m\351todos)f(de)h(compress\343o)p
+Black 220 1889 a(V)-13 b(.)p Black 49 w(Escrita)24 b(do)h(TCI)p
+Black 174 2092 a(VI.)p Black 49 w(Desen)l(v)n(olvimento)d(dos)j
+(m\363dulos)p Black 141 2295 a(VII.)p Black 49 w(T)-7
+b(este)24 b(e)h(corre\347\365es)p Black 108 2499 a(VIII.)p
+Black 49 w(Escrita)f(do)h(TCII)p Black 356 2727 3285
+4 v 356 2848 4 121 v 630 2848 V 1280 2812 a(2006)p 2125
+2848 V 1303 w(2006)p 3638 2848 V 356 2851 3285 4 v 356
+2971 4 121 v 630 2971 V 683 2935 a(MAR)p 960 2971 V 103
+w(ABR)p 1268 2971 V 104 w(MAI)p 1565 2971 V 103 w(JUN)p
+1850 2971 V 102 w(JUL)p 2125 2971 V 103 w(A)l(GO)p 2439
+2971 V 103 w(SET)p 2720 2971 V 103 w(OUT)p 3027 2971
+V 102 w(NO)-5 b(V)p 3341 2971 V 103 w(DEZ)p 3638 2971
+V 356 2975 3285 4 v 356 3095 4 121 v 478 3059 a(I)p 630
+3095 V .5 TeXcolorgray 633 3095 327 121 v Black 960 3095
+4 121 v 1268 3095 V 1565 3095 V 1850 3095 V 2125 3095
+V 2439 3095 V 2720 3095 V 3027 3095 V 3341 3095 V 3638
+3095 V 356 3098 3285 4 v 356 3219 4 121 v 462 3183 a(II)p
+630 3219 V 960 3219 V .5 TeXcolorgray 963 3219 305 121
+v Black 1268 3219 4 121 v .5 TeXcolorgray 1271 3219 294
+121 v Black 1565 3219 4 121 v 1850 3219 V 2125 3219 V
+2439 3219 V 2720 3219 V 3027 3219 V 3341 3219 V 3638
+3219 V 356 3222 3285 4 v 356 3342 4 121 v 445 3306 a(III)p
+630 3342 V 960 3342 V .5 TeXcolorgray 963 3342 305 121
+v Black 1268 3342 4 121 v .5 TeXcolorgray 1271 3342 294
+121 v Black 1565 3342 4 121 v 1850 3342 V 2125 3342 V
+2439 3342 V 2720 3342 V 3027 3342 V 3341 3342 V 3638
+3342 V 356 3346 3285 4 v 356 3466 4 121 v 442 3430 a(IV)p
+630 3466 V 960 3466 V .5 TeXcolorgray 963 3466 305 121
+v Black 1268 3466 4 121 v .5 TeXcolorgray 1271 3466 294
+121 v Black 1565 3466 4 121 v 1850 3466 V 2125 3466 V
+2439 3466 V 2720 3466 V 3027 3466 V 3341 3466 V 3638
+3466 V 356 3469 3285 4 v 356 3590 4 121 v 459 3554 a(V)p
+630 3590 V 960 3590 V 1268 3590 V .5 TeXcolorgray 1271
+3590 294 121 v Black 1565 3590 4 121 v .5 TeXcolorgray
+1568 3590 283 121 v Black 1850 3590 4 121 v .5 TeXcolorgray
+1853 3590 272 121 v Black 2125 3590 4 121 v 2439 3590
+V 2720 3590 V 3027 3590 V 3341 3590 V 3638 3590 V 356
+3593 3285 4 v 356 3714 4 121 v 442 3677 a(VI)p 630 3714
+V 960 3714 V 1268 3714 V 1565 3714 V 1850 3714 V .5 TeXcolorgray
+1853 3714 272 121 v Black 2125 3714 4 121 v .5 TeXcolorgray
+2128 3714 312 121 v Black 2439 3714 4 121 v .5 TeXcolorgray
+2443 3714 277 121 v Black 2720 3714 4 121 v .5 TeXcolorgray
+2723 3714 305 121 v Black 3027 3714 4 121 v 3341 3714
+V 3638 3714 V 356 3717 3285 4 v 356 3837 4 121 v 426
+3801 a(VII)p 630 3837 V 960 3837 V 1268 3837 V 1565 3837
+V 1850 3837 V 2125 3837 V .5 TeXcolorgray 2128 3837 312
+121 v Black 2439 3837 4 121 v .5 TeXcolorgray 2443 3837
+277 121 v Black 2720 3837 4 121 v .5 TeXcolorgray 2723
+3837 305 121 v Black 3027 3837 4 121 v .5 TeXcolorgray
+3030 3837 311 121 v Black 3341 3837 4 121 v 3638 3837
+V 356 3841 3285 4 v 356 3961 4 121 v 409 3925 a(VIII)p
+630 3961 V 960 3961 V 1268 3961 V 1565 3961 V 1850 3961
+V 2125 3961 V 2439 3961 V .5 TeXcolorgray 2443 3961 277
+121 v Black 2720 3961 4 121 v .5 TeXcolorgray 2723 3961
+305 121 v Black 3027 3961 4 121 v .5 TeXcolorgray 3030
+3961 311 121 v Black 3341 3961 4 121 v .5 TeXcolorgray
+3344 3961 294 121 v Black 3638 3961 4 121 v 356 3964
+3285 4 v Black Black Black eop end
+%%Page: 8 10
+TeXDict begin 8 9 bop Black 1998 -30 a Fc(8)p Black Black
+Black Black Black 2281 1083 a Fe(Santa)25 b(Cruz)g(do)g(Sul,)g(24)f(de)
+h(mar\347o)g(de)g(2009)2344 1676 y(_______________________________)3185
+1796 y(Cristiano)f(Battisti)2344 2389 y
+(_______________________________)2503 2510 y(Prof.)h(Dr)-5
+b(.)25 b(Raf)o(ael)h(Ramos)e(dos)g(Santos)p Black Black
+eop end
+%%Trailer
+
+userdict /end-hook known{end-hook}if
+%%EOF

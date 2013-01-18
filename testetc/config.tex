@@ -1,0 +1,188 @@
+%
+%% Codificação e formatação básica do LaTeX
+% Suporte para português (hifenação e caracteres especiais)
+\usepackage[english,brazilian]{babel}
+
+% Codificação do arquivo
+\usepackage[utf8]{inputenc}
+
+% Mapear caracteres especiais no PDF
+\usepackage{cmap}
+
+% Codificação da fonte
+\usepackage[T1]{fontenc}
+
+%% Microtipografia
+% Utiliza recursos como espaçamento entre letras e entre linhas
+\usepackage{microtype}
+% Habilita protrusão e expansão, ignorando
+% compatibilidade (ver documentação do pacote)
+\microtypesetup{activate={true,nocompatibility}}
+% factor=1100 aumenta a protrusão (default 1000)
+% stretch=10 diminui o valor máximo de expansão (default 20)
+% shrink=10 diminui o valor máximo de encolhimento (default 20)
+\microtypesetup{factor=1100, stretch=10, shrink=10}
+% Tracking, espaçamento entre palavras, kerning
+\microtypesetup{tracking=true, spacing=true, kerning=true}
+% Remover tracking para Small Caps
+\SetTracking{encoding={T1}, shape=sc}{0}
+% Remove ligaduras para o 'f'. Se necessário, adicionar letras
+% separadas por vírgulas
+\DisableLigatures[f]{encoding={T1}}
+% Documento em versão "final", suporte para outros idiomas
+\microtypesetup{final, babel}
+
+% Essencial para colocar funções e outros símbolos matemáticos
+\usepackage{amsmath,amssymb,amsfonts,textcomp}
+
+%% Layout
+% Customização do layout da página, margens espelhadas
+%\usepackage[twoside]{geometry}
+% Aumenta as margens internas para espiral
+%\geometry{bindingoffset=10pt}
+% Só pra ajustar o layout
+\setlength{\marginparwidth}{90pt}
+%\usepackage{layout}
+
+% Para definir espaçamento entre as linhas
+\usepackage{setspace}
+
+% Espaçamento do texto para o frame
+\setlength{\fboxsep}{1em}
+
+% Faz com que as margens tenham o mesmo tamanho horizontalmente
+%\geometry{hcentering}
+
+%% Elementos Gráficos
+% Para incluir figuras (pacote extendido)
+\usepackage[]{graphicx}
+
+%% Suporte a cores
+\usepackage{color}
+% Os argumentos declaram nomes novos, como Cyan e Crimson
+% (ver documentação do pacote).
+\usepackage[usenames,dvipsnames,svgnames]{xcolor}
+
+% Criar figura dividida em subfiguras
+\usepackage{subfig}
+\captionsetup[subfigure]{style=default, margin=0pt, parskip=0pt, hangindent=0pt, indention=0pt, singlelinecheck=true, labelformat=parens, labelsep=space}
+
+% Caso queira guardar as figuras em uma pasta separada
+% (descomente e) defina o caminho para o diretório:
+%\graphicspath{{./figuras/}}
+
+% Customizar as legendas de figuras e tabelas
+\usepackage{caption}
+
+% Criar ambientes com 2 ou mais colunas
+\usepackage{multicol}
+
+% Ative o comando abaixo se quiser colocar figuras de fundo (e.g., capa)
+%\usepackage{wallpaper}
+% Exemplo para inserir a figura na capa está no arquivo pre.tex (linha 7)
+% Ajuste da posição da figura no eixo Y
+%\addtolength{\wpYoffset}{-140pt}
+% Ajuste da posição da figura no eixo X
+%\addtolength{\wpXoffset}{36pt}
+
+%% Tabelas
+% Elementos extras para formatação de tabelas
+\usepackage{array}
+
+% Tabelas com qualidade de publicação
+\usepackage{booktabs}
+
+% Para criar tabelas maiores que uma página
+\usepackage{longtable}
+
+% adicionar tabelas e figuras como landscape
+\usepackage{lscape}
+
+%% Lista de Abreviações
+% Cria lista de abreviações
+\usepackage[notintoc,portuguese]{nomencl}
+\makenomenclature
+
+%% Notas de rodapé
+% Lidar com notas de rodapé em diversas situações
+\usepackage{footnote}
+
+% Notas criadas nas tabelas ficam no fim das tabelas
+\makesavenoteenv{tabular}
+
+% Conta o número de páginas
+\usepackage{lastpage}
+
+%% Referências bibliográficas e afins
+% Formatar as citações no texto e a lista de referências
+\usepackage{natbib}
+
+% Adicionar bibliografia, índice e conteúdo na Tabela de conteúdo
+% Não inclui lista de tabelas e figuras no índice
+\usepackage[nottoc,notlof,notlot]{tocbibind}
+
+%% Pontuação e unidades
+% Posicionar inteligentemente a vírgula como separador decimal
+\usepackage{icomma}
+
+% Formatar as unidades com as distâncias corretas
+\usepackage[tight]{units}
+
+%% Cabeçalho e rodapé
+% Controlar os cabeçalhos e rodapés
+%\usepackage{fancyhdr}
+% Usar os estilos do pacote fancyhdr
+%\pagestyle{fancy}
+%\fancypagestyle{plain}{\fancyhf{}}
+% Limpar os campos do cabeçalho atual
+%\fancyhead{}
+% Número da página do lado esquerdo [L] nas páginas ímpares [O] e do lado direito [R] nas páginas pares [E]
+%\fancyhead[LO,RE]{\thepage}
+%\fancyhead[RE]{\thepage}
+% Nome da seção do lado direito em páginas ímpares
+%\fancyhead[RO]{\nouppercase{\rightmark}}
+% Nome do capítulo do lado esquerdo em páginas pares
+%\fancyhead[LE]{\nouppercase{\leftmark}}
+% Limpar os campos do rodapé
+%\fancyfoot{}
+% Omitir linha de separação entre cabeçalho e conteúdo
+%\renewcommand{\headrulewidth}{0pt}
+% Omitir linha de separação entre rodapé e conteúdo
+%\renewcommand{\footrulewidth}{0pt}
+% Altura do cabeçalho
+%\headheight 13.6pt
+
+% Dados do projeto
+\newcommand{\nomedoaluno}{Luana Lima de Freitas}
+\newcommand{\titulo}{Vai da Certo, eu acho!}
+
+%% Links dinâmicos
+% Suporte para hipertexto, links para referências e figuras
+\usepackage{hyperref}
+% Configurações dos links e metatags do PDF a ser gerado
+\hypersetup{colorlinks=true, linkcolor=blue, citecolor=blue, filecolor=blue, pagecolor=blue, urlcolor=green,
+            pdfauthor={\nomedoaluno},
+            pdftitle={\titulo},
+            pdfsubject={Assunto do Projeto},
+            pdfkeywords={palavra-chave, palavra-chave, palavra-chave},
+            pdfproducer={LaTeX},
+            pdfcreator={pdfTeX}}
+
+%% Inserir comentários no texto
+% Marcar mudanças e fazer comentários
+%\usepackage[margins]{trackchanges}
+% Iniciais do autor
+%\renewcommand{\initialsTwo}{bcv}
+% Notas na margem interna
+%\reversemarginpar
+
+%% Comandos customizados
+
+% Espécie e abreviação
+\newcommand{\subde}{\emph{Clypeaster subdepressus}}
+\newcommand{\subsus}{\emph{C.~subdepressus}}
+
+%% Pacotes não implementados
+% Para não sobrar espaços em branco estranhos
+%\widowpenalty=1000
+%\clubpenalty=1000
