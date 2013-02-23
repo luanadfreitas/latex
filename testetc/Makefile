@@ -1,4 +1,4 @@
-FILE = mestrado
+FILE = TC2
 
 all :
 	pdflatex $(FILE).tex

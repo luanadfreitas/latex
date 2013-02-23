@@ -171,3 +171,111 @@
 \widowpenalty=1000
 \clubpenalty=1000
 %############################################################################
+
+%%% TESTE
+%==============================================================================
+% Formata��o dos cap�tulos.
+% Os comandos \@chapter e \@schapter s�o redefinidos para que a
+% numera��o de p�ginas seja correta (deve aparecer somente a partir do
+% primeiro cap�tulo do texto, mas n�o nas p�ginas iniciais de
+% cap�tulos).
+% Os comandos \@makechapterhead e \@makeschapterhead fazem a
+% formata��o dos t�tulos propriamente ditos.
+%==============================================================================
+%==============================================================================
+% Declara��o de op��es
+%==============================================================================
+\newcommand{\iiu@novodoc}[1]{\DeclareOption{#1}{\AtEndOfClass{\input{#1.def}}}}
+\iiu@novodoc{tc} %por enquanto, so temos modelo para trabalhos de conclusao.
+\DeclareOption{english}{\@englishtrue\OptionNotUsed}\newif\if@english
+\DeclareOption{oneside}{\AtEndOfClass{\@twosidefalse}\OptionNotUsed}
+\DeclareOption*{\PassOptionsToClass{\CurrentOption}{report}}
+\ProcessOptions\relax
+
+%==============================================================================
+% Heran�a da classe `report' e inclus�o de pacotes e arquivos necess�rios
+%==============================================================================
+\LoadClass[12pt,a4paper,twoside,ifthen]{report}
+\RequirePackage[english,brazilian]{babel}
+\input{brazilian.babel}
+\input{english.babel}
+\if@english
+        \selectlanguage{english}
+        \AtBeginDocument{\selectlanguage{english}}
+\fi
+
+\newcommand{\ii@chapterfont}{\@setfontsize\Large{12}{20}}
+\def\@chapapp{}
+\def\@chapter[#1]#2{% 
+\setstretch{1.5} %espa�amento entre linhas
+				\par
+        \refstepcounter{chapter}%
+        \addcontentsline{toc}{chapter}{\protect\numberline{\@chapapp\thechapter}#1}%
+        %\addtocontents{lof}{\protect\addvspace{10\p@}}%
+        \addtocontents{lof}{\protect}%
+        %\addtocontents{lot}{\protect\addvspace{10\p@}}%
+        \addtocontents{lot}{\protect}%
+        \pagestyle{iiufrgs}\let\ps@plain\ps@iiufrgs%
+				\@makechapterhead{#2}\@afterheading\let\@afterindentfalse\@afterindenttrue
+\@afterindenttrue\parindent=1cm\setlength{\parskip}{12pt plus 0pt minus 0pt}
+}
+
+\def\@makechapterhead#1{%
+        \vspace*{15mm} 
+\reset@font{\ii@chapterfont\begin{center}\textbf{\@chapapp\hspace{0.8em}\MakeUppercase{#1}}\end{center}\par}
+        \addvspace{1cm}
+}
+\def\@schapter#1{%
+        \if@aftertoc\addcontentsline{toc}{chapter}{#1}\fi%
+        \addtocontents{lof}{\protect\addvspace{10\p@}}%
+        \addtocontents{lot}{\protect\addvspace{10\p@}}%
+        \@makeschapterhead{#1}\@afterheading\parindent=1cm\setlength{\parskip}{6pt plus 0pt minus 0pt}
+}
+\def\@makeschapterhead#1{%
+        %\vspace*{1pt}\sffamily
+        \vspace*{10mm}
+        \reset@font\centerline{\ii@chapterfont\textbf{\MakeUppercase{#1}}}
+        %\addvspace{42pt}
+        \addvspace{1cm}
+}
+\renewcommand{\appendix}[1][\appendixname]{%
+        \setcounter{chapter}{0}%
+        \renewcommand{\thechapter}{\Alph{chapter}}%
+        \setcounter{tocdepth}{0}%
+        \@captionlistingfalse%
+        \gdef\@chapapp{\MakeUppercase{#1}\space}%
+        \addtocontents{toc}{%
+          \settowidth{\ii@chapnumindent}{{\sffamily\textbf{\@chapapp}}}
+          \addtolength{\ii@chapnumindent}{1.8em}
+        }%
+}
+\newcommand{\annex}{\appendix[\annexname]}
+
+%==============================================================================
+% Formata��o das se��es
+%==============================================================================
+\setcounter{secnumdepth}{4}
+\renewcommand{\section}{%
+\setstretch{1.5} %espa�amento entre linhas
+\parindent=1cm %identacao do paragrafo
+\setlength\parskip{17pt plus 0pt minus 0pt}
+        \@startsection{section}{1}{29pt}{15pt}{3pt}{\reset@font\bfseries}
+}
+\renewcommand{\subsection}{%
+\setstretch{1.5}
+\parindent=1cm
+\setlength\parskip{17pt plus 0pt minus 0pt}
+        \@startsection{subsection}{2}{29pt}{15pt}{3pt}{\reset@font\bfseries}
+}
+\renewcommand{\subsubsection}{%
+\setstretch{1.5}
+\parindent=1cm
+\setlength\parskip{17pt plus 0pt minus 0pt}
+        \@startsection{subsubsection}{3}{29pt}{15pt}{3pt}{\reset@font\bfseries}
+}
+\renewcommand{\paragraph}{%
+        \@startsection{paragraph}{4}{0pt}{12pt}{6pt}{\reset@font}
+}
+\renewcommand{\subparagraph}{%				
+		\@startsection{subparagraph}{5}{0pt}{1ex}{-1em}{\reset@font\bfseries}
+}
